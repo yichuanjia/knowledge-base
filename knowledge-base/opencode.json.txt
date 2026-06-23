@@ -1,0 +1,29 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "agents": {
+    "collector": {
+      "description": "采集 Agent，从 GitHub Trending、Hacker News、arXiv 等数据源采集技术情报",
+      "path": ".opencode/agents/collector.md",
+      "skills": ["github-trending"]
+    },
+    "analyzer": {
+      "description": "分析 Agent，对原始采集数据进行深度分析、摘要生成和评分",
+      "path": ".opencode/agents/analyzer.md",
+      "skills": ["tech-summary"]
+    },
+    "organizer": {
+      "description": "整理 Agent，将分析后的数据整理为结构化知识条目",
+      "path": ".opencode/agents/organizer.md"
+    }
+  },
+  "skills": {
+    "github-trending": {
+      "description": "从 GitHub Trending 采集热门 AI/LLM 相关项目",
+      "path": ".opencode/skills/github-trending/SKILL.md"
+    },
+    "tech-summary": {
+      "description": "为技术项目/文章生成中文摘要和标签",
+      "path": ".opencode/skills/tech-summary/SKILL.md"
+    }
+  }
+}
