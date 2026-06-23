@@ -1,0 +1,49 @@
+2026-06-23 15:33:35,269 [INFO] pipeline.collector: ==================================================
+2026-06-23 15:33:35,270 [INFO] pipeline.collector: 开始采集 AI 领域技术动态 — 2026-06-23
+2026-06-23 15:33:35,270 [INFO] pipeline.collector: ==================================================
+2026-06-23 15:33:35,270 [INFO] pipeline.collector: --- 采集 GitHub Trending ---
+2026-06-23 15:33:35,270 [INFO] pipeline.collector: GitHub Search: ai+in:name,description,topics
+2026-06-23 15:33:40,739 [INFO] pipeline.collector: GitHub Search: llm+in:name,description,topics
+2026-06-23 15:33:44,419 [ERROR] pipeline.collector: GitHub Trending 采集异常: IncompleteRead(262144 bytes read)
+2026-06-23 15:33:44,419 [WARNING] pipeline.collector: GitHub Trending 未采集到有效数据
+2026-06-23 15:33:44,419 [INFO] pipeline.collector: --- 采集 Hacker News ---
+2026-06-23 15:33:55,580 [INFO] pipeline.hn_api: HN 批量获取: 50/50 条成功
+2026-06-23 15:33:55,584 [INFO] pipeline.collector: HN 采集完成: 14 条 AI 相关文章
+2026-06-23 15:33:55,585 [INFO] pipeline.collector: 已保存 14 条数据到 knowledge/raw/hacker-news-2026-06-23.json
+2026-06-23 15:33:55,585 [INFO] pipeline.collector: ==================================================
+2026-06-23 15:33:55,585 [INFO] pipeline.collector: 采集完成 — 共 1 个来源有数据
+2026-06-23 15:33:55,585 [INFO] pipeline.collector: ==================================================
+2026-06-23 15:34:40,262 [INFO] pipeline.collector: ==================================================
+2026-06-23 15:34:40,262 [INFO] pipeline.collector: 开始采集 AI 领域技术动态 — 2026-06-23
+2026-06-23 15:34:40,262 [INFO] pipeline.collector: ==================================================
+2026-06-23 15:34:40,262 [INFO] pipeline.collector: --- 采集 GitHub Trending ---
+2026-06-23 15:34:40,262 [INFO] pipeline.collector: GitHub Search: ai+in:name,description,topics (since 2026-06-16)
+2026-06-23 15:34:46,033 [INFO] pipeline.collector: GitHub Search: llm+in:name,description,topics (since 2026-06-16)
+2026-06-23 15:34:51,813 [INFO] pipeline.collector: GitHub Search: agent+in:name,description,topics (since 2026-06-16)
+2026-06-23 15:34:58,078 [INFO] pipeline.collector: GitHub Search: deep-learning+OR+machine-learning+in:name,description,topics (since 2026-06-16)
+2026-06-23 15:35:04,192 [INFO] pipeline.collector: GitHub 采集完成: 83 条 AI 相关仓库
+2026-06-23 15:35:04,195 [INFO] pipeline.collector: 已保存 83 条数据到 knowledge/raw/github-trending-2026-06-23.json
+2026-06-23 15:35:04,195 [INFO] pipeline.collector: --- 采集 Hacker News ---
+2026-06-23 15:35:14,985 [INFO] pipeline.hn_api: HN 批量获取: 50/50 条成功
+2026-06-23 15:35:14,988 [INFO] pipeline.collector: HN 采集完成: 14 条 AI 相关文章
+2026-06-23 15:35:14,989 [INFO] pipeline.collector: 已保存 14 条数据到 knowledge/raw/hacker-news-2026-06-23.json
+2026-06-23 15:35:14,989 [INFO] pipeline.collector: ==================================================
+2026-06-23 15:35:14,990 [INFO] pipeline.collector: 采集完成 — 共 2 个来源有数据
+2026-06-23 15:35:14,990 [INFO] pipeline.collector: ==================================================
+2026-06-23 15:36:50,947 [INFO] pipeline.collector: ==================================================
+2026-06-23 15:36:50,947 [INFO] pipeline.collector: 开始采集 AI 领域技术动态 — 2026-06-23
+2026-06-23 15:36:50,947 [INFO] pipeline.collector: ==================================================
+2026-06-23 15:36:50,947 [INFO] pipeline.collector: --- 采集 GitHub Trending ---
+2026-06-23 15:36:50,947 [INFO] pipeline.collector: GitHub Search: ai+in:name,description,topics (since 2026-06-16)
+2026-06-23 15:36:56,797 [INFO] pipeline.collector: GitHub Search: llm+in:name,description,topics (since 2026-06-16)
+2026-06-23 15:37:02,688 [INFO] pipeline.collector: GitHub Search: agent+in:name,description,topics (since 2026-06-16)
+2026-06-23 15:37:08,265 [INFO] pipeline.collector: GitHub Search: deep-learning+OR+machine-learning+in:name,description,topics (since 2026-06-16)
+2026-06-23 15:37:13,937 [INFO] pipeline.collector: GitHub 采集完成: 77 条 AI 相关仓库
+2026-06-23 15:37:13,942 [INFO] pipeline.collector: 已保存 77 条数据到 knowledge/raw/github-trending-2026-06-23.json
+2026-06-23 15:37:13,942 [INFO] pipeline.collector: --- 采集 Hacker News ---
+2026-06-23 15:37:24,247 [INFO] pipeline.hn_api: HN 批量获取: 50/50 条成功
+2026-06-23 15:37:24,249 [INFO] pipeline.collector: HN 采集完成: 8 条 AI 相关文章
+2026-06-23 15:37:24,250 [INFO] pipeline.collector: 已保存 8 条数据到 knowledge/raw/hacker-news-2026-06-23.json
+2026-06-23 15:37:24,251 [INFO] pipeline.collector: ==================================================
+2026-06-23 15:37:24,251 [INFO] pipeline.collector: 采集完成 — 共 2 个来源有数据
+2026-06-23 15:37:24,251 [INFO] pipeline.collector: ==================================================

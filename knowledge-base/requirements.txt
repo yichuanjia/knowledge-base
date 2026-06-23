@@ -1,0 +1,2 @@
+# AI 知识库助手 — Python 依赖
+# Python >= 3.12

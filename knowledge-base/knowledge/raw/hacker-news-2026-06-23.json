@@ -1,0 +1,63 @@
+{
+  "source": "hacker-news",
+  "collected_at": "2026-06-23T07:37:24.250203+00:00",
+  "count": 8,
+  "items": [
+    {
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "source": "hacker-news",
+      "popularity": 299,
+      "summary": ""
+    },
+    {
+      "title": "Munich 1991: The Roots of the Current AI Boom",
+      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "source": "hacker-news",
+      "popularity": 220,
+      "summary": ""
+    },
+    {
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "url": "https://oak.space/oak/oak",
+      "source": "hacker-news",
+      "popularity": 181,
+      "summary": "Oak is a version control system I've been working on designed for agents (<a href=\"https://oak.space\" rel=\"nofollow\">https://oak.space</a>). It improves the speed and context your agents need when wor"
+    },
+    {
+      "title": "Prompt Injection as Role Confusion",
+      "url": "https://role-confusion.github.io",
+      "source": "hacker-news",
+      "popularity": 180,
+      "summary": "<a href=\"https://arxiv.org/abs/2603.12277\" rel=\"nofollow\">https://arxiv.org/abs/2603.12277</a>"
+    },
+    {
+      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+      "url": "https://openai.com/index/daybreak-securing-the-world/",
+      "source": "hacker-news",
+      "popularity": 60,
+      "summary": ""
+    },
+    {
+      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+      "url": "https://clevercrow.io",
+      "source": "hacker-news",
+      "popularity": 51,
+      "summary": "Howdy all. I'm Zack :wave:. I've been thinking about the problem of misguided AI pull requests and figured I'd throw a possible solution out there for feedback. Basically, CleverCrow lets supporters g"
+    },
+    {
+      "title": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
+      "url": "https://github.com/Amal-David/pagecast",
+      "source": "hacker-news",
+      "popularity": 44,
+      "summary": "I built this because I kept generating HTML/Markdown reports from Claude Code/Codex and needed a permanent share link instead of a localhost tunnel. Pagecast is a local CLI that publishes those files "
+    },
+    {
+      "title": "Ask HN: Anthropic banned me from using Claude Code and I don't know what to do",
+      "url": "https://news.ycombinator.com/item?id=48641160",
+      "source": "hacker-news",
+      "popularity": 31,
+      "summary": "After using Claude Code at work for months I wanted to use it on my own projects too. Most probably because my vpn was on I got banned after 1 hour of usage. I got my 120$ back. 1 month later I signed"
+    }
+  ]
+}

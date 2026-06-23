@@ -1,0 +1,546 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-06-23T07:37:13.941164+00:00",
+  "count": 77,
+  "items": [
+    {
+      "title": "lyra81604/zhengxi-views",
+      "url": "https://github.com/lyra81604/zhengxi-views",
+      "source": "github-trending",
+      "popularity": 755,
+      "summary": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！"
+    },
+    {
+      "title": "Forsy-AI/agent-apprenticeship",
+      "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+      "source": "github-trending",
+      "popularity": 724,
+      "summary": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange."
+    },
+    {
+      "title": "Plaer1/junction",
+      "url": "https://github.com/Plaer1/junction",
+      "source": "github-trending",
+      "popularity": 526,
+      "summary": "VS Code chat sidebar for local AI coding agents"
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "github-trending",
+      "popularity": 410,
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "title": "sums001/Windows-Copilot-API",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
+      "source": "github-trending",
+      "popularity": 408,
+      "summary": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing."
+    },
+    {
+      "title": "nnecrkvenuOX/formcms",
+      "url": "https://github.com/nnecrkvenuOX/formcms",
+      "source": "github-trending",
+      "popularity": 387,
+      "summary": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer."
+    },
+    {
+      "title": "raiyanyahya/recall",
+      "url": "https://github.com/raiyanyahya/recall",
+      "source": "github-trending",
+      "popularity": 345,
+      "summary": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline."
+    },
+    {
+      "title": "yo-WASSUP/Good-Badminton",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "source": "github-trending",
+      "popularity": 344,
+      "summary": "🏸  AI Badminton Hawk-Eye System"
+    },
+    {
+      "title": "HKUDS/AgentSpace",
+      "url": "https://github.com/HKUDS/AgentSpace",
+      "source": "github-trending",
+      "popularity": 269,
+      "summary": "\"AgentSpace: Human + Agents. One Team. One Workspace\""
+    },
+    {
+      "title": "shadcn-labs/agentcn",
+      "url": "https://github.com/shadcn-labs/agentcn",
+      "source": "github-trending",
+      "popularity": 216,
+      "summary": "shadcn/ui, but for building agents. 🤖"
+    },
+    {
+      "title": "briliwar0/glm-5.2-free-desktop-app",
+      "url": "https://github.com/briliwar0/glm-5.2-free-desktop-app",
+      "source": "github-trending",
+      "popularity": 197,
+      "summary": "glm 5.2 free z.ai  llm chatbot free api access local llm unsloth dynamic gguf llama.cpp ollama run coding assistant autonomous agent zcode opencode cloudflare workers ai hugging face model weights 1m "
+    },
+    {
+      "title": "zyn26/minimax-m3-desktop-app-free-api",
+      "url": "https://github.com/zyn26/minimax-m3-desktop-app-free-api",
+      "source": "github-trending",
+      "popularity": 193,
+      "summary": "minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant a"
+    },
+    {
+      "title": "dikurdikur/palmier-pro-windows",
+      "url": "https://github.com/dikurdikur/palmier-pro-windows",
+      "source": "github-trending",
+      "popularity": 165,
+      "summary": "Palmier Pro AI video editor macOS windows timeline multitrack NLE footage model context protocol MCP server agent Claude Cursor Swift SwiftUI AVFoundation storyboard audio prores metal automation rend"
+    },
+    {
+      "title": "ksimback/looper",
+      "url": "https://github.com/ksimback/looper",
+      "source": "github-trending",
+      "popularity": 125,
+      "summary": "Design visual, review-gated agent loops for Claude Code before you run them."
+    },
+    {
+      "title": "flatkey-ai/awesome-images",
+      "url": "https://github.com/flatkey-ai/awesome-images",
+      "source": "github-trending",
+      "popularity": 121,
+      "summary": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!"
+    },
+    {
+      "title": "hbddevos/PumpFun-Trainer_V1",
+      "url": "https://github.com/hbddevos/PumpFun-Trainer_V1",
+      "source": "github-trending",
+      "popularity": 121,
+      "summary": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring."
+    },
+    {
+      "title": "alkhudarigroupuae/PumpFun-Trainer_V1",
+      "url": "https://github.com/alkhudarigroupuae/PumpFun-Trainer_V1",
+      "source": "github-trending",
+      "popularity": 121,
+      "summary": "An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring."
+    },
+    {
+      "title": "binghe1980/AI-Canvas",
+      "url": "https://github.com/binghe1980/AI-Canvas",
+      "source": "github-trending",
+      "popularity": 104,
+      "summary": "Codex-integrated infinite canvas for AI image generation, annotation, and iterative editing."
+    },
+    {
+      "title": "jwangkun/loops",
+      "url": "https://github.com/jwangkun/loops",
+      "source": "github-trending",
+      "popularity": 96,
+      "summary": "Loop（循环） 是一种用于AI编程助手（如 Claude Code、Cursor）的自动化工作流指令集。它通过\"执行→检查→修复→重复\"的闭环模式，让AI能够自主完成开发任务，直到达到预设目标。"
+    },
+    {
+      "title": "lidge-jun/opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "source": "github-trending",
+      "popularity": 95,
+      "summary": "Universal provider proxy for OpenAI Codex — use any LLM with Codex CLI, App, and SDK"
+    },
+    {
+      "title": "cryptolandorg/crypto-card-integration-dapp",
+      "url": "https://github.com/cryptolandorg/crypto-card-integration-dapp",
+      "source": "github-trending",
+      "popularity": 93,
+      "summary": "Crypto Card Integration Dapp booking platform with stipe and solana payments, admin analytics, customer dashboard, communication hub, and AI support"
+    },
+    {
+      "title": "umacloud/umadev",
+      "url": "https://github.com/umacloud/umadev",
+      "source": "github-trending",
+      "popularity": 93,
+      "summary": "AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode，套上 9 阶段可治理的商业级交付流水线。  AI Coding Project Director Agent | Power Claude Code, Codex & OpenCode with a 9-stage governable commercial delivery pipeli"
+    },
+    {
+      "title": "moduwusuowei/geshifang",
+      "url": "https://github.com/moduwusuowei/geshifang",
+      "source": "github-trending",
+      "popularity": 88,
+      "summary": "纯前端 Markdown 转微信公众号文章排版工具，支持本地排版和 AI 智能排版双模式。"
+    },
+    {
+      "title": "VisionForge-OU/foreman",
+      "url": "https://github.com/VisionForge-OU/foreman",
+      "source": "github-trending",
+      "popularity": 87,
+      "summary": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository."
+    },
+    {
+      "title": "databufflabs/databuff",
+      "url": "https://github.com/databufflabs/databuff",
+      "source": "github-trending",
+      "popularity": 85,
+      "summary": "AI Native 的 OpenTelemetry APM"
+    },
+    {
+      "title": "inni918/warashi",
+      "url": "https://github.com/inni918/warashi",
+      "source": "github-trending",
+      "popularity": 85,
+      "summary": "Warashi — a free, open-source desktop AI companion with a Live2D avatar, voice chat, long-term memory, and proactive conversation."
+    },
+    {
+      "title": "Gach0ng/AgentStalker",
+      "url": "https://github.com/Gach0ng/AgentStalker",
+      "source": "github-trending",
+      "popularity": 85,
+      "summary": "A standardized agent vulnerability benchmark, formal taint tracking proofs, and a cross-language unified AST model, integrating code auditing with sandbox reproduction into an all-in-one agent securit"
+    },
+    {
+      "title": "Karovia/fullstack-ai-agent-roadmap",
+      "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+      "source": "github-trending",
+      "popularity": 82,
+      "summary": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文"
+    },
+    {
+      "title": "FieldofStrawberries/claude-code-fable-5-free-app",
+      "url": "https://github.com/FieldofStrawberries/claude-code-fable-5-free-app",
+      "source": "github-trending",
+      "popularity": 82,
+      "summary": "claude fable 5 free api ai chatbot anthropic model chat online web api github download desktop client  access premium account login trial alternative prompt generative text ui version beta assistant"
+    },
+    {
+      "title": "scottstts/Threejs-Awesome-Graphics-Agent-Skills",
+      "url": "https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills",
+      "source": "github-trending",
+      "popularity": 80,
+      "summary": "A three.js agent skills for producing awesome graphics for scenes and games"
+    },
+    {
+      "title": "alvinunreal/lazyskills",
+      "url": "https://github.com/alvinunreal/lazyskills",
+      "source": "github-trending",
+      "popularity": 80,
+      "summary": "A beautiful terminal UI for discovering, installing, and managing AI agent skills."
+    },
+    {
+      "title": "lucasfishh/vanta",
+      "url": "https://github.com/lucasfishh/vanta",
+      "source": "github-trending",
+      "popularity": 78,
+      "summary": "Autonomous LLM squads compete in a tactical strategy game with on-chain Solana stakes."
+    },
+    {
+      "title": "trotsky1997/OpenFugu",
+      "url": "https://github.com/trotsky1997/OpenFugu",
+      "source": "github-trending",
+      "popularity": 73,
+      "summary": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve."
+    },
+    {
+      "title": "Simpl3x3/ESEILANE",
+      "url": "https://github.com/Simpl3x3/ESEILANE",
+      "source": "github-trending",
+      "popularity": 71,
+      "summary": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG)."
+    },
+    {
+      "title": "Johell1NS/browser-search",
+      "url": "https://github.com/Johell1NS/browser-search",
+      "source": "github-trending",
+      "popularity": 71,
+      "summary": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Self-hosted, free, unlimited."
+    },
+    {
+      "title": "fivetaku/llm-wiki",
+      "url": "https://github.com/fivetaku/llm-wiki",
+      "source": "github-trending",
+      "popularity": 66,
+      "summary": "raw 소스를 Claude Code가 위키로 합성·유지하는 영구 마크다운 지식베이스 템플릿 (LLM Wiki, Karpathy 패턴)"
+    },
+    {
+      "title": "tianjiangqiji/nova-image-studio",
+      "url": "https://github.com/tianjiangqiji/nova-image-studio",
+      "source": "github-trending",
+      "popularity": 64,
+      "summary": "自托管的 AI 图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务 支持Agent模式，工作台模式，无限画布，反推提示词，提示词广场，GIF生成。前后端任务机制轻量后端；三端兼容 UI：桌面端、平板端、移动端自适应布局"
+    },
+    {
+      "title": "m14r41/PentestingChecklist",
+      "url": "https://github.com/m14r41/PentestingChecklist",
+      "source": "github-trending",
+      "popularity": 60,
+      "summary": "Comprehensive, data-driven security assessment checklists across 23 platforms web, API, mobile, cloud, Active Directory, Kubernetes, LLM, and more. Expandable hierarchy, global search, progress tracki"
+    },
+    {
+      "title": "lishuangqiang/backend-agent-resume-scout",
+      "url": "https://github.com/lishuangqiang/backend-agent-resume-scout",
+      "source": "github-trending",
+      "popularity": 59,
+      "summary": "一个Skill，主要目标是为后端和 AI Agent 求职者，从 GitHub 里筛出真正能写进简历、能经得起面试追问的项目，并基于源码证据生成简历项目包"
+    },
+    {
+      "title": "wellwelwel/blue-spec",
+      "url": "https://github.com/wellwelwel/blue-spec",
+      "source": "github-trending",
+      "popularity": 58,
+      "summary": "🌊 Blue Spec is a toolkit for Security-Driven Hardening, a defensive workflow to help AI agents detect what a system does and harden the defenses that matter."
+    },
+    {
+      "title": "gintasz/neuralyzer",
+      "url": "https://github.com/gintasz/neuralyzer",
+      "source": "github-trending",
+      "popularity": 58,
+      "summary": "AI agent harness tool allowing it to wipe its own session context and re-run the first message"
+    },
+    {
+      "title": "abdokhalil5555/AgenticDeFi-Trainer",
+      "url": "https://github.com/abdokhalil5555/AgenticDeFi-Trainer",
+      "source": "github-trending",
+      "popularity": 56,
+      "summary": "Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to trade, bridge, and manage crypto treasuries without human intervention. The ultimate Agentic DeFi to"
+    },
+    {
+      "title": "begin0808/LiveCaption",
+      "url": "https://github.com/begin0808/LiveCaption",
+      "source": "github-trending",
+      "popularity": 55,
+      "summary": " 即時影音雙語字幕翻譯系統。本機離線 AI 語音辨識與翻譯，支援 SenseVoice、Ollama 與 DeepSeek。 | Real-time tab audio bilingual subtitle translation system using local ASR (SenseVoice) and LLMs (Ollama / DeepSeek). 100% offline & pri"
+    },
+    {
+      "title": "spronta/crawlie",
+      "url": "https://github.com/spronta/crawlie",
+      "source": "github-trending",
+      "popularity": 54,
+      "summary": "Fast, free, open-source technical SEO + GEO crawler: built for humans and agents."
+    },
+    {
+      "title": "IACKuchau/AgenticDeFi-Trainer",
+      "url": "https://github.com/IACKuchau/AgenticDeFi-Trainer",
+      "source": "github-trending",
+      "popularity": 53,
+      "summary": "Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to trade, bridge, and manage crypto treasuries without human intervention. The ultimate Agentic DeFi to"
+    },
+    {
+      "title": "SantanderAI/ralph",
+      "url": "https://github.com/SantanderAI/ralph",
+      "source": "github-trending",
+      "popularity": 49,
+      "summary": "A configurable Bash/PowerShell loop that runs an AI coding CLI with a fresh session each iteration"
+    },
+    {
+      "title": "josevapriambudi111-cyber/AgenticDeFi-Trainer",
+      "url": "https://github.com/josevapriambudi111-cyber/AgenticDeFi-Trainer",
+      "source": "github-trending",
+      "popularity": 49,
+      "summary": "Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to trade, bridge, and manage crypto treasuries without human intervention. The ultimate Agentic DeFi to"
+    },
+    {
+      "title": "MADEVAL/MindFluence",
+      "url": "https://github.com/MADEVAL/MindFluence",
+      "source": "github-trending",
+      "popularity": 46,
+      "summary": "An AI prompt-skill that turns 20 cognitive biases into high-converting marketing copy. Includes playbooks for ads, landing pages, email sequences, social posts, webinars, and product launches. Languag"
+    },
+    {
+      "title": "noxxix/AgenticDeFi-Trainer",
+      "url": "https://github.com/noxxix/AgenticDeFi-Trainer",
+      "source": "github-trending",
+      "popularity": 46,
+      "summary": "Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to trade, bridge, and manage crypto treasuries without human intervention. The ultimate Agentic DeFi to"
+    },
+    {
+      "title": "ialapont9/AgenticDeFi-Trainer",
+      "url": "https://github.com/ialapont9/AgenticDeFi-Trainer",
+      "source": "github-trending",
+      "popularity": 44,
+      "summary": "Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to trade, bridge, and manage crypto treasuries without human intervention. The ultimate Agentic DeFi to"
+    },
+    {
+      "title": "joeseesun/qiaomu-llm-mcp",
+      "url": "https://github.com/joeseesun/qiaomu-llm-mcp",
+      "source": "github-trending",
+      "popularity": 43,
+      "summary": "把多模型 Provider、本地密钥和 HeavySkill 讨论统一成 MCP 网关 | Local MCP gateway for multi-provider LLM routing, secrets, and HeavySkill discussions."
+    },
+    {
+      "title": "liergou2332/AgenticDeFi-Trainer",
+      "url": "https://github.com/liergou2332/AgenticDeFi-Trainer",
+      "source": "github-trending",
+      "popularity": 43,
+      "summary": "Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to trade, bridge, and manage crypto treasuries without human intervention. The ultimate Agentic DeFi to"
+    },
+    {
+      "title": "lojo64945-beep/AgenticDeFi-Trainer",
+      "url": "https://github.com/lojo64945-beep/AgenticDeFi-Trainer",
+      "source": "github-trending",
+      "popularity": 43,
+      "summary": "Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to trade, bridge, and manage crypto treasuries without human intervention. The ultimate Agentic DeFi to"
+    },
+    {
+      "title": "SantanderAI/llm_bridge",
+      "url": "https://github.com/SantanderAI/llm_bridge",
+      "source": "github-trending",
+      "popularity": 42,
+      "summary": "A tiny, vendor-neutral LLM client library — one interface (LLMClient) with pluggable adapters for OpenAI, AWS Bedrock and Google Gemini, or bring your own backend."
+    },
+    {
+      "title": "SantanderAI/mech-gov-framework",
+      "url": "https://github.com/SantanderAI/mech-gov-framework",
+      "source": "github-trending",
+      "popularity": 36,
+      "summary": "Mechanical Governance for LLM Decisions — model-agnostic governance regimes (R1/R2/R3), hard gates, entropy commit-reveal and governance metrics for high-stakes LLM decision systems."
+    },
+    {
+      "title": "dvbs2000/visible-ai",
+      "url": "https://github.com/dvbs2000/visible-ai",
+      "source": "github-trending",
+      "popularity": 32,
+      "summary": "看得见的 AI · The Visible AI —— 一本全图解、零基础到亲手构建的 AI 通识书,永久免费。30 章 / 6 阶段,元元×小满带你从一个神经元走到亲手搭 AI 应用。"
+    },
+    {
+      "title": "Enping-Hu/minimind-deep-dive",
+      "url": "https://github.com/Enping-Hu/minimind-deep-dive",
+      "source": "github-trending",
+      "popularity": 28,
+      "summary": "逐行对照 MiniMind 源码精读、并延伸到大模型技术体系的中文学习笔记 —— 预训练 / SFT / DPO / PPO / GRPO、训练机制、MiniMind2→3 版本对照、真实实验证据。"
+    },
+    {
+      "title": "SantanderAI/sota-stressed-datasets",
+      "url": "https://github.com/SantanderAI/sota-stressed-datasets",
+      "source": "github-trending",
+      "popularity": 22,
+      "summary": "Open benchmark datasets republished in stressed form to evaluate ML/LLM robustness. Curated by Santander AI Lab."
+    },
+    {
+      "title": "SantanderAI/genetic-algorithm",
+      "url": "https://github.com/SantanderAI/genetic-algorithm",
+      "source": "github-trending",
+      "popularity": 19,
+      "summary": "A dependency-free Python genetic-algorithm engine with pluggable fitness criteria — the reusable search core for an LLM/AI autoresearcher."
+    },
+    {
+      "title": "SantanderAI/causal-perception-implementation",
+      "url": "https://github.com/SantanderAI/causal-perception-implementation",
+      "source": "github-trending",
+      "popularity": 18,
+      "summary": "Machine learning research code for causal perception: comparing competing structural causal models (SCMs) via interventional and counterfactual distributions, applied to fair credit decisions. Open so"
+    },
+    {
+      "title": "Sampath7890/aiml-daily-grind",
+      "url": "https://github.com/Sampath7890/aiml-daily-grind",
+      "source": "github-trending",
+      "popularity": 17,
+      "summary": "Day-by-day AI/ML roadmap — 5 phases, 33 weeks, 12 projects. From Python to GenAI. Built by a student, for students. 🚀"
+    },
+    {
+      "title": "SantanderAI/linear-adapter-trainer",
+      "url": "https://github.com/SantanderAI/linear-adapter-trainer",
+      "source": "github-trending",
+      "popularity": 15,
+      "summary": "Train linear embedding adapters with triplet loss to align retrieval embeddings with your queries (RAG)."
+    },
+    {
+      "title": "Moh4696/free-ai-models",
+      "url": "https://github.com/Moh4696/free-ai-models",
+      "source": "github-trending",
+      "popularity": 9,
+      "summary": "10 legit ways to access major AI models (GPT, Claude, Llama, DeepSeek & more) for FREE — step-by-step guides, no subscription, no card."
+    },
+    {
+      "title": "roiamiel1/Build-Deep-Learning-From-Scratch",
+      "url": "https://github.com/roiamiel1/Build-Deep-Learning-From-Scratch",
+      "source": "github-trending",
+      "popularity": 8,
+      "summary": "A project-based curriculum that teaches PyTorch by rebuilding it from scratch. Start with scalar backpropagation, create a reverse-mode autodiff engine, expand it into tensors, then implement neural n"
+    },
+    {
+      "title": "FareedKhan-dev/agentic-quantum-computing",
+      "url": "https://github.com/FareedKhan-dev/agentic-quantum-computing",
+      "source": "github-trending",
+      "popularity": 8,
+      "summary": "End-to-end agentic quantum-ML pipeline: PennyLane GPU quantum-kernel anomaly detection + LangGraph multi-agent system + locally-hosted Qwen3-14B, benchmarked across network-intrusion, LHC physics, and"
+    },
+    {
+      "title": "aabdullahsayed/Machine-Learning-With-Python",
+      "url": "https://github.com/aabdullahsayed/Machine-Learning-With-Python",
+      "source": "github-trending",
+      "popularity": 6,
+      "summary": "Machine Learning repository with Python code, covering basic concepts"
+    },
+    {
+      "title": "ransjnr/biopython-ml-handbook",
+      "url": "https://github.com/ransjnr/biopython-ml-handbook",
+      "source": "github-trending",
+      "popularity": 5,
+      "summary": "Biopython for Machine Learning and Bioinformatics"
+    },
+    {
+      "title": "BriggSMccall/neural-lab-project",
+      "url": "https://github.com/BriggSMccall/neural-lab-project",
+      "source": "github-trending",
+      "popularity": 5,
+      "summary": "Neural Lab Project contains experimental deep learning models, neural network architectures, optimization methods, and AI research prototypes."
+    },
+    {
+      "title": "BriggSMccall/customerintel-suite",
+      "url": "https://github.com/BriggSMccall/customerintel-suite",
+      "source": "github-trending",
+      "popularity": 5,
+      "summary": "CustomerIntel Suite analyzes customer behavior patterns, segmentation models, retention metrics, and purchasing trends using advanced machine learning techniques."
+    },
+    {
+      "title": "EthanCaldWell-Dev/EthanCaldWell-Dev",
+      "url": "https://github.com/EthanCaldWell-Dev/EthanCaldWell-Dev",
+      "source": "github-trending",
+      "popularity": 5,
+      "summary": "Customer Insights AI analyzes customer behavior, engagement patterns, and purchasing trends using machine learning techniques. It helps businesses identify valuable customer segments, predict future b"
+    },
+    {
+      "title": "roshanchourasia001/movie-recomendations-system",
+      "url": "https://github.com/roshanchourasia001/movie-recomendations-system",
+      "source": "github-trending",
+      "popularity": 5,
+      "summary": "A Machine Learning-based Movie Recommendation System that suggests movies similar to the one selected by the user. The project uses movie metadata and similarity scores to recommend relevant movies an"
+    },
+    {
+      "title": "BriggSMccall/BriggSMccall",
+      "url": "https://github.com/BriggSMccall/BriggSMccall",
+      "source": "github-trending",
+      "popularity": 5,
+      "summary": "Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram or webUI. It contains backtesting, plotting and m"
+    },
+    {
+      "title": "cnaebadi/ai-disclosure-handbook",
+      "url": "https://github.com/cnaebadi/ai-disclosure-handbook",
+      "source": "github-trending",
+      "popularity": 5,
+      "summary": "A practical guide to AI privacy, profiling, shadow profiling, local AI, cloud AI, and the future of human autonomy."
+    },
+    {
+      "title": "DL4EO/oriented-det",
+      "url": "https://github.com/DL4EO/oriented-det",
+      "source": "github-trending",
+      "popularity": 4,
+      "summary": "A lightweight deep learning framework for rotated object detection in aerial and satellite imagery "
+    },
+    {
+      "title": "Michel66/BlockBase",
+      "url": "https://github.com/Michel66/BlockBase",
+      "source": "github-trending",
+      "popularity": 4,
+      "summary": "Hyper-Converged Edge Computing Architecture Enabling Auto-Scaling, Real-Time Machine-Learning, and Intelligent Fault-Tolerant Framework."
+    },
+    {
+      "title": "Jeevav62/voxpolish",
+      "url": "https://github.com/Jeevav62/voxpolish",
+      "source": "github-trending",
+      "popularity": 4,
+      "summary": "VoxPolish - a TTS dataset cleaner. Remove noise, trim silence, normalize loudness for text-to-speech training data in one command."
+    },
+    {
+      "title": "Hayredin950/SYNAPSE",
+      "url": "https://github.com/Hayredin950/SYNAPSE",
+      "source": "github-trending",
+      "popularity": 4,
+      "summary": "🧠 FAANG-style technology intelligence platform leveraging autonomous AI agents and semantic search."
+    }
+  ]
+}
