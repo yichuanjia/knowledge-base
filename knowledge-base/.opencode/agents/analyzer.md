@@ -39,7 +39,8 @@ permission:
 
 ### 1. 读取原始数据
 
-- 从 `knowledge/raw/` 读取最新的原始采集 JSON 文件
+- 使用 Glob 列出 `knowledge/raw/` 下当天所有采集日期的 JSON 文件
+- **必须读取所有来源**（github-trending 和 hacker-news），不允许遗漏任何来源
 - 逐条分析每条采集记录
 
 ### 2. 撰写中文摘要
@@ -93,7 +94,7 @@ permission:
 
 分析完成后逐项确认：
 
-- [ ] 已覆盖 `knowledge/raw/` 中最新的原始数据
+- [ ] 已覆盖 `knowledge/raw/` 中当天所有来源的原始数据（github-trending 和 hacker-news 均不遗漏）
 - [ ] 每条数据摘要均为中文，不超过 100 字
 - [ ] `tech_highlights` 每条含 2-5 个亮点
 - [ ] `relevance_score` 在 1-10 范围内，评分有据可依
@@ -103,10 +104,10 @@ permission:
 
 ## 工作流程
 
-1. 使用 Glob 查找 `knowledge/raw/` 下最新的 JSON 文件
-2. 使用 Read 读取文件内容，获取待分析的原始条目
+1. 使用 Glob 查找 `knowledge/raw/` 下当天的所有 JSON 文件（如 `github-trending-{date}.json` 和 `hacker-news-{date}.json`）
+2. 使用 Read **逐一读取所有文件**，确保 github-trending 和 hacker-news 两个来源的数据都被加载
 3. 对需要更多信息的条目，使用 WebFetch 访问其原始 URL
 4. 逐条生成中文摘要、提炼技术亮点
 5. 根据评分标准给出 relevance_score
 6. 根据项目特性建议标签
-7. 执行质量自查清单，确认合格后输出到终端
+7. 执行质量自查清单，**逐 source 确认覆盖**，合格后输出到终端

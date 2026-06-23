@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-23-github-builderio-skills",
+  "title": "BuilderIO/skills: AI 编程 Agent 技能集合",
+  "source": "github-trending",
+  "source_url": "https://github.com/BuilderIO/skills",
+  "collected_at": "2026-06-23T10:00:00Z",
+  "summary": "Builder.io 的 Agent 标准化技能模块集，可复用集成",
+  "analysis": {
+    "tech_highlights": [
+      "标准化 Agent 技能模块",
+      "BuilderIO 生态出品",
+      "Skill 标准化实践"
+    ],
+    "relevance_score": 7,
+    "score_reason": "Agent Skill 的标准化和模块化是 Agent 系统设计的核心问题，本项目提供了可参考的实践模式。当前项目也涉及 Skill 系统（github-trending/tech-summary），BuilderIO 的方案可提供架构参考。实用价值高但非突破性创新。"
+  },
+  "tags": [
+    "agent-skills",
+    "skill-standardization",
+    "builderio",
+    "coding-agent",
+    "modular"
+  ],
+  "status": "published"
+}

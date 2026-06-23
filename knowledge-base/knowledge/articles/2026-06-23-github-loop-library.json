@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-23-github-loop-library",
+  "title": "loop-library: AI Agent 循环模式库",
+  "source": "github-trending",
+  "source_url": "https://github.com/Forward-Future/loop-library",
+  "collected_at": "2026-06-23T10:00:00Z",
+  "summary": "AI Agent 循环模式库，可安装为 Skill，辅助工作流设计",
+  "analysis": {
+    "tech_highlights": [
+      "Agent 循环模式库",
+      "可安装为 Agent Skill",
+      "工作流设计模式"
+    ],
+    "relevance_score": 7,
+    "score_reason": "Agent 工作流循环是 LangGraph 等编排框架的核心概念，本项目的模式库可直接指导 Agent 工作流设计。与当前项目使用的 LangGraph 工作流有天然关联，Skill 化安装方式也值得借鉴。实用价值高但项目规模较小。"
+  },
+  "tags": [
+    "agent-workflow",
+    "loop-patterns",
+    "agent-skill",
+    "langgraph",
+    "orchestration"
+  ],
+  "status": "published"
+}

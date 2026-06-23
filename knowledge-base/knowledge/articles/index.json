@@ -1,0 +1,92 @@
+[
+  {
+    "id": "2026-06-23-github-ponytail",
+    "title": "ponytail: AI coding agent 极简代码生成器",
+    "file": "2026-06-23-github-ponytail.json",
+    "source": "github-trending",
+    "tags": ["ai-coding-agent", "code-optimization", "cost-reduction", "multi-platform", "open-source"],
+    "relevance_score": 8,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-mimo-code",
+    "title": "MiMo-Code: 小米开源多 Agent AI 编程助手",
+    "file": "2026-06-23-github-mimo-code.json",
+    "source": "github-trending",
+    "tags": ["open-code", "multi-agent", "xiaomi", "code-assistant", "open-source"],
+    "relevance_score": 9,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-improve",
+    "title": "shadcn/improve: 智能分层 AI 编码工作流",
+    "file": "2026-06-23-github-improve.json",
+    "source": "github-trending",
+    "tags": ["cost-optimization", "model-tiering", "code-review", "workflow", "shadcn"],
+    "relevance_score": 7,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-omnigent",
+    "title": "OmniGent: 多 Agent 元编排框架",
+    "file": "2026-06-23-github-omnigent.json",
+    "source": "github-trending",
+    "tags": ["agent-orchestration", "multi-agent", "sandbox", "open-source", "python"],
+    "relevance_score": 8,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-lottie",
+    "title": "diffusionstudio/lottie: AI 驱动的 Lottie 动画生成",
+    "file": "2026-06-23-github-lottie.json",
+    "source": "github-trending",
+    "tags": ["lottie", "animation", "ai-design-tool", "claude-code", "codex"],
+    "relevance_score": 3,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-builderio-skills",
+    "title": "BuilderIO/skills: AI 编程 Agent 技能集合",
+    "file": "2026-06-23-github-builderio-skills.json",
+    "source": "github-trending",
+    "tags": ["agent-skills", "skill-standardization", "builderio", "coding-agent", "modular"],
+    "relevance_score": 7,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-vercel-eve",
+    "title": "Vercel Eve: 标准化 Agent 构建框架",
+    "file": "2026-06-23-github-vercel-eve.json",
+    "source": "github-trending",
+    "tags": ["agent-framework", "vercel", "toolchain", "runtime", "open-source"],
+    "relevance_score": 7,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-baoyu-design",
+    "title": "baoyu-design: 本地运行 Claude Design 的 Agent Skill",
+    "file": "2026-06-23-github-baoyu-design.json",
+    "source": "github-trending",
+    "tags": ["agent-skill", "claude-design", "ui-prototype", "local-first", "cursor"],
+    "relevance_score": 5,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-joyai-echo",
+    "title": "JoyAI-Echo: 京东长音频-视觉联合生成模型",
+    "file": "2026-06-23-github-joyai-echo.json",
+    "source": "github-trending",
+    "tags": ["audio-generation", "visual-generation", "multi-modal", "jingdong", "open-source"],
+    "relevance_score": 4,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-loop-library",
+    "title": "loop-library: AI Agent 循环模式库",
+    "file": "2026-06-23-github-loop-library.json",
+    "source": "github-trending",
+    "tags": ["agent-workflow", "loop-patterns", "agent-skill", "langgraph", "orchestration"],
+    "relevance_score": 7,
+    "status": "published"
+  }
+]

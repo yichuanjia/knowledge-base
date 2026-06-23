@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-23-github-mimo-code",
+  "title": "MiMo-Code: 小米开源多 Agent AI 编程助手",
+  "source": "github-trending",
+  "source_url": "https://github.com/XiaomiMiMo/MiMo-Code",
+  "collected_at": "2026-06-23T10:00:00Z",
+  "summary": "小米开源多 Agent 编程助手，基于 OpenCode 定制，具备持久记忆和自进化能力",
+  "analysis": {
+    "tech_highlights": [
+      "基于 OpenCode 深度定制",
+      "多 Agent 子编排架构",
+      "持久记忆与自进化"
+    ],
+    "relevance_score": 9,
+    "score_reason": "基于 OpenCode 深度定制，与当前项目技术栈直接对齐。多 Agent 编排、持久记忆、自进化等特性代表了 AI 编程助手的前沿方向，来自小米的开源质量保证。对正在构建 OpenCode 知识库 Agent 系统的项目有极高的参考和复用价值，属于领域内标杆级项目。"
+  },
+  "tags": [
+    "open-code",
+    "multi-agent",
+    "xiaomi",
+    "code-assistant",
+    "open-source"
+  ],
+  "status": "published"
+}

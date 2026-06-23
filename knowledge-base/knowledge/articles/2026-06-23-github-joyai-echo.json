@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-23-github-joyai-echo",
+  "title": "JoyAI-Echo: 京东长音频-视觉联合生成模型",
+  "source": "github-trending",
+  "source_url": "https://github.com/jd-opensource/JoyAI-Echo",
+  "collected_at": "2026-06-23T10:00:00Z",
+  "summary": "京东开源的长音频-视觉联合生成模型",
+  "analysis": {
+    "tech_highlights": [
+      "长音频-视觉联合生成",
+      "多模态 AI 模型",
+      "京东开源出品"
+    ],
+    "relevance_score": 4,
+    "score_reason": "属于 AI 多模态生成领域的前沿探索，大厂开源具备一定关注价值。但核心方向是音视频内容生成，与当前项目关注的 Agent 系统、知识管理、LLM 应用开发方向关联度较低。"
+  },
+  "tags": [
+    "audio-generation",
+    "visual-generation",
+    "multi-modal",
+    "jingdong",
+    "open-source"
+  ],
+  "status": "published"
+}
