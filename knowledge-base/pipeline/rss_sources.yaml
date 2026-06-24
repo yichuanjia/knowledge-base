@@ -1,0 +1,136 @@
+# RSS 数据源配置 — AI 知识库采集
+#
+# 字段说明:
+#   name:    数据源名称（唯一标识）
+#   url:     RSS/Atom feed 地址
+#   category: 分类
+#   enabled: 是否启用采集 (true/false)
+#
+# 分类:
+#   tech-general   综合技术
+#   ai-research    AI 研究
+#   company-blog   公司博客
+#   research       研究社区
+#   open-source    开源模型
+#   industry       行业动态
+#   news           科技媒体
+#   chinese-media  中文社区
+
+sources:
+
+  # ═══════════════════════════════════════════
+  # 综合技术
+  # ═══════════════════════════════════════════
+
+  - name: hacker-news-ai
+    url: https://hnrss.org/newest?q=AI+OR+LLM+OR+agent+OR+GPT+OR+Claude+OR+DeepSeek
+    category: tech-general
+    enabled: true
+
+  - name: lobsters-ai-ml
+    url: https://lobste.rs/t/ai.rss
+    category: tech-general
+    enabled: true
+
+  # ═══════════════════════════════════════════
+  # AI 研究
+  # ═══════════════════════════════════════════
+
+  - name: arxiv-cs-ai
+    url: https://export.arxiv.org/rss/cs.AI
+    category: ai-research
+    enabled: true
+
+  - name: arxiv-cs-cl
+    url: https://export.arxiv.org/rss/cs.CL
+    category: ai-research
+    enabled: true
+
+  - name: arxiv-cs-lg
+    url: https://export.arxiv.org/rss/cs.LG
+    category: ai-research
+    enabled: true
+
+  # ═══════════════════════════════════════════
+  # 公司博客
+  # ═══════════════════════════════════════════
+
+  - name: openai-blog
+    url: https://openai.com/blog/rss.xml
+    category: company-blog
+    enabled: true
+
+  - name: anthropic-research
+    url: https://www.anthropic.com/research/feed
+    category: company-blog
+    enabled: true
+
+  - name: huggingface-blog
+    url: https://huggingface.co/blog/feed.xml
+    category: company-blog
+    enabled: true
+
+  - name: meta-ai-research
+    url: https://ai.meta.com/blog/feed/
+    category: company-blog
+    enabled: true
+
+  # ═══════════════════════════════════════════
+  # 研究社区
+  # ═══════════════════════════════════════════
+
+  - name: reddit-machinelearning
+    url: https://www.reddit.com/r/MachineLearning/hot.rss
+    category: research
+    enabled: true
+
+  # ═══════════════════════════════════════════
+  # 开源模型
+  # ═══════════════════════════════════════════
+
+  - name: reddit-localllama
+    url: https://www.reddit.com/r/LocalLLaMA/hot.rss
+    category: open-source
+    enabled: true
+
+  # ═══════════════════════════════════════════
+  # 行业动态
+  # ═══════════════════════════════════════════
+
+  - name: google-ai-blog
+    url: https://blog.google/technology/ai/rss/
+    category: industry
+    enabled: true
+
+  # ═══════════════════════════════════════════
+  # 科技媒体
+  # ═══════════════════════════════════════════
+
+  - name: theverge-ai
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    category: news
+    enabled: true
+
+  # ═══════════════════════════════════════════
+  # 中文社区（默认关闭，须确认 RSS 可用性）
+  # ═══════════════════════════════════════════
+
+  - name: jiqizhixin
+    url: https://www.jiqizhixin.com/rss
+    category: chinese-media
+    enabled: true
+
+  - name: qbitai
+    url: https://www.qbitai.com/feed
+    category: chinese-media
+    enabled: true
+
+  - name: leiphone-ai
+    url: https://www.leiphone.com/category/ai/feed
+    category: chinese-media
+    enabled: true
+
+  - name: synced
+    url: https://syncedreview.com/feed/
+    category: chinese-media
+    enabled: true
