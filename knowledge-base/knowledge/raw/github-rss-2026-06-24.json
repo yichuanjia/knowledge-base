@@ -1,0 +1,175 @@
+{
+  "source": "github-rss",
+  "collected_at": "2026-06-24T09:39:24.343275+00:00",
+  "count": 24,
+  "items": [
+    {
+      "title": "lyra81604/zhengxi-views",
+      "url": "https://github.com/lyra81604/zhengxi-views",
+      "source": "github-trending",
+      "popularity": 957,
+      "summary": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！"
+    },
+    {
+      "title": "Forsy-AI/agent-apprenticeship",
+      "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+      "source": "github-trending",
+      "popularity": 883,
+      "summary": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange."
+    },
+    {
+      "title": "sums001/Windows-Copilot-API",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
+      "source": "github-trending",
+      "popularity": 591,
+      "summary": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing."
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "github-trending",
+      "popularity": 564,
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "title": "yo-WASSUP/Good-Badminton",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "source": "github-trending",
+      "popularity": 448,
+      "summary": "🏸  AI Badminton Hawk-Eye System"
+    },
+    {
+      "title": "raiyanyahya/recall",
+      "url": "https://github.com/raiyanyahya/recall",
+      "source": "github-trending",
+      "popularity": 435,
+      "summary": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline."
+    },
+    {
+      "title": "HKUDS/AgentSpace",
+      "url": "https://github.com/HKUDS/AgentSpace",
+      "source": "github-trending",
+      "popularity": 333,
+      "summary": "\"AgentSpace: Human + Agents. One Team. One Workspace\""
+    },
+    {
+      "title": "Valorant-AI/valorant-ai-aimbot-undetected",
+      "url": "https://github.com/Valorant-AI/valorant-ai-aimbot-undetected",
+      "source": "github-trending",
+      "popularity": 291,
+      "summary": "Master Valorant with an undetectable AI aimbot and hardware-driven ESP overlay. Explore neural-network precision, Vanguard-safe external architecture, and humanized aiming algorithms designed for comp"
+    },
+    {
+      "title": "ksimback/looper",
+      "url": "https://github.com/ksimback/looper",
+      "source": "github-trending",
+      "popularity": 264,
+      "summary": "Design visual, review-gated agent loops for Claude Code before you run them."
+    },
+    {
+      "title": "Karovia/fullstack-ai-agent-roadmap",
+      "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+      "source": "github-trending",
+      "popularity": 160,
+      "summary": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文"
+    },
+    {
+      "title": "trotsky1997/OpenFugu",
+      "url": "https://github.com/trotsky1997/OpenFugu",
+      "source": "github-trending",
+      "popularity": 117,
+      "summary": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve."
+    },
+    {
+      "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2606.23927",
+      "source": "arxiv-cs-ai",
+      "popularity": 0,
+      "summary": "arXiv:2606.23927v1 Announce Type: new \nAbstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond"
+    },
+    {
+      "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+      "url": "https://arxiv.org/abs/2606.23938",
+      "source": "arxiv-cs-ai",
+      "popularity": 0,
+      "summary": "arXiv:2606.23938v1 Announce Type: new \nAbstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose interm"
+    },
+    {
+      "title": "Critique of Agent Model",
+      "url": "https://arxiv.org/abs/2606.23991",
+      "source": "arxiv-cs-ai",
+      "popularity": 0,
+      "summary": "arXiv:2606.23991v1 Announce Type: new \nAbstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and"
+    },
+    {
+      "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+      "url": "https://arxiv.org/abs/2606.24010",
+      "source": "arxiv-cs-ai",
+      "popularity": 0,
+      "summary": "arXiv:2606.24010v1 Announce Type: new \nAbstract: Multi-agent systems are widely used in safety-critical applications that require coordinated behavior under strict safety constraints. Existing approac"
+    },
+    {
+      "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+      "url": "https://arxiv.org/abs/2606.24014",
+      "source": "arxiv-cs-ai",
+      "popularity": 0,
+      "summary": "arXiv:2606.24014v1 Announce Type: new \nAbstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen duri"
+    },
+    {
+      "title": "EXPO-SQL: Execution-based Clause-level Policy Optimization for Text-to-SQL",
+      "url": "https://arxiv.org/abs/2606.23693",
+      "source": "arxiv-cs-cl",
+      "popularity": 0,
+      "summary": "arXiv:2606.23693v1 Announce Type: new \nAbstract: Text-to-SQL enables users to query databases using natural language by generating executable SQL queries. Recent methods have increasingly adopted Larg"
+    },
+    {
+      "title": "Quantifying Prior Dominance in RAG Systems",
+      "url": "https://arxiv.org/abs/2606.23695",
+      "source": "arxiv-cs-cl",
+      "popularity": 0,
+      "summary": "arXiv:2606.23695v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) grounds Large Language Models in external knowledge, yet current evaluations rely on discrete heuristics that suff"
+    },
+    {
+      "title": "Self-Recognition Finetuning can Prevent and Reverse Emergent Misalignment",
+      "url": "https://arxiv.org/abs/2606.23700",
+      "source": "arxiv-cs-cl",
+      "popularity": 0,
+      "summary": "arXiv:2606.23700v1 Announce Type: new \nAbstract: Emergent misalignment (EM) has been linked to the activation of misaligned persona vectors and evil character traits, suggesting that EM operates throu"
+    },
+    {
+      "title": "Evaluating LLM Usage for Efficient and Explainable Numerical and Classified Implicit Sentiment Analysis of Product Desirability",
+      "url": "https://arxiv.org/abs/2606.23701",
+      "source": "arxiv-cs-cl",
+      "popularity": 0,
+      "summary": "arXiv:2606.23701v1 Announce Type: new \nAbstract: Qualitative product feedback can reveal nuanced user experiences, but its implicit sentiment is difficult to measure. This paper presents a scalable an"
+    },
+    {
+      "title": "Weight-Space Geometry of Offline Reasoning Training",
+      "url": "https://arxiv.org/abs/2606.23740",
+      "source": "arxiv-cs-lg",
+      "popularity": 0,
+      "summary": "arXiv:2606.23740v1 Announce Type: new \nAbstract: Offline reinforcement-learning losses (RFT, RIFT, DFT, Offline GRPO, DPO) are widely used to distill reasoning from large teachers into smaller student"
+    },
+    {
+      "title": "A Survey on Federated Causal Discovery and Inference",
+      "url": "https://arxiv.org/abs/2606.23741",
+      "source": "arxiv-cs-lg",
+      "popularity": 0,
+      "summary": "arXiv:2606.23741v1 Announce Type: new \nAbstract: Causal reasoning, which encompasses the discovery of causal structures and the inference of causal effects, is fundamental to data-driven decision maki"
+    },
+    {
+      "title": "Low-power analogue neural networks with trainable nonlinear connections for continuous control",
+      "url": "https://arxiv.org/abs/2606.23742",
+      "source": "arxiv-cs-lg",
+      "popularity": 0,
+      "summary": "arXiv:2606.23742v1 Announce Type: new \nAbstract: Physical neural networks promise low-power machine learning by computing directly with analogue device physics, but most architectures force nonlinear "
+    },
+    {
+      "title": "Synergizing Physically Constrained MCMC and Chemical-Informed Gaussian Processes for Reaction Network Discovery",
+      "url": "https://arxiv.org/abs/2606.23757",
+      "source": "arxiv-cs-lg",
+      "popularity": 0,
+      "summary": "arXiv:2606.23757v1 Announce Type: new \nAbstract: Extracting interpretable governing equations from sparse, noisy chemical time-series data remains difficult because discrete reaction topology and cont"
+    }
+  ]
+}

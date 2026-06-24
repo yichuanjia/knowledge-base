@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-github-lidge-jun-opencodex",
+  "title": "lidge-jun/opencodex",
+  "source": "github-trending",
+  "source_url": "https://github.com/lidge-jun/opencodex",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "OpenCodex 是一个通用提供者代理，允许用户通过 OpenAI Codex CLI、应用和 SDK 使用任何大型语言模型。",
+  "analysis": {
+    "tech_highlights": [
+      "通用提供者代理架构",
+      "支持任意 LLM 接入 Codex 生态"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "open-source",
+    "llm",
+    "proxy",
+    "openai",
+    "codex"
+  ],
+  "status": "reviewed"
+}

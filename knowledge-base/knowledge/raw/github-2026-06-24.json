@@ -1,0 +1,56 @@
+{
+  "source": "github",
+  "collected_at": "2026-06-24T09:38:44.880051+00:00",
+  "count": 7,
+  "items": [
+    {
+      "title": "lyra81604/zhengxi-views",
+      "url": "https://github.com/lyra81604/zhengxi-views",
+      "source": "github-trending",
+      "popularity": 957,
+      "summary": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！"
+    },
+    {
+      "title": "Forsy-AI/agent-apprenticeship",
+      "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+      "source": "github-trending",
+      "popularity": 883,
+      "summary": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange."
+    },
+    {
+      "title": "sums001/Windows-Copilot-API",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
+      "source": "github-trending",
+      "popularity": 591,
+      "summary": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing."
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "github-trending",
+      "popularity": 564,
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "title": "yo-WASSUP/Good-Badminton",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "source": "github-trending",
+      "popularity": 448,
+      "summary": "🏸  AI Badminton Hawk-Eye System"
+    },
+    {
+      "title": "raiyanyahya/recall",
+      "url": "https://github.com/raiyanyahya/recall",
+      "source": "github-trending",
+      "popularity": 435,
+      "summary": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline."
+    },
+    {
+      "title": "Karovia/fullstack-ai-agent-roadmap",
+      "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+      "source": "github-trending",
+      "popularity": 160,
+      "summary": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文"
+    }
+  ]
+}

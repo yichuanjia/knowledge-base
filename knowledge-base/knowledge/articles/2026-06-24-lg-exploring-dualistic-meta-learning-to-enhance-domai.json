@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-lg-exploring-dualistic-meta-learning-to-enhance-domai",
+  "title": "Exploring Dualistic Meta-Learning to Enhance Domain Generalization in Open Set Scenarios",
+  "source": "arxiv-cs-lg",
+  "source_url": "https://arxiv.org/abs/2606.23758",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "提出双元元学习框架，增强开放集场景下的域泛化能力，解决未见过目标域与未知类别问题。",
+  "analysis": {
+    "tech_highlights": [
+      "双元元学习机制",
+      "开放集域泛化",
+      "多源域到未见过目标域的迁移"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "meta-learning",
+    "domain-generalization",
+    "open-set-recognition",
+    "machine-learning"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-24-cl-quechuatok-morphological-boundary-accuracy-as-a-ne",
+  "title": "QuechuaTok: Morphological Boundary Accuracy as a Necessary Metric for Tokenizer Evaluation in Agglutinative Low-Resource Languages",
+  "source": "arxiv-cs-cl",
+  "source_url": "https://arxiv.org/abs/2606.23943",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "提出形态边界准确率作为评估分词器在黏着语低资源语言中的必要指标，揭示传统指标如fertility rate的不足。",
+  "analysis": {
+    "tech_highlights": [
+      "提出形态边界准确率新指标",
+      "针对黏着语低资源语言的分词器评估",
+      "挑战传统fertility rate指标的有效性"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "nlp",
+    "tokenization",
+    "low-resource-languages",
+    "morphology",
+    "evaluation-metrics"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-24-cl-when-retrieval-metrics-mislead-measuring-policy-si",
+  "title": "When Retrieval Metrics Mislead: Measuring Policy Signal in Long-Horizon Tool-Use Agents",
+  "source": "arxiv-cs-cl",
+  "source_url": "https://arxiv.org/abs/2606.23937",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "该论文质疑精确匹配检索召回率作为下游决策模型策略上下文有效性代理的可靠性，并研究长周期工具使用代理中的策略信号测量问题。",
+  "analysis": {
+    "tech_highlights": [
+      "质疑精确匹配召回率作为策略信号代理的可靠性",
+      "聚焦长周期工具使用代理中的检索评估问题"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "retrieval",
+    "agents",
+    "tool-use",
+    "evaluation-metrics"
+  ],
+  "status": "reviewed"
+}

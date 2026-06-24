@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-github-reyzowter-hello-agents",
+  "title": "Reyzowter/Hello-Agents",
+  "source": "github-trending",
+  "source_url": "https://github.com/Reyzowter/Hello-Agents",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "一个从零开始构建AI代理系统的全面实战教程，覆盖基础到生产级多代理应用。",
+  "analysis": {
+    "tech_highlights": [
+      "从基础到生产级多代理的完整教程",
+      "实战导向，适合构建实际AI代理系统"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "agent",
+    "tutorial",
+    "ai",
+    "multi-agent",
+    "open-source"
+  ],
+  "status": "reviewed"
+}

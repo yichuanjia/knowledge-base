@@ -217,6 +217,9 @@ def get_provider(provider_name: str | None = None) -> LLMProvider:
     return OpenAICompatibleProvider(name)
 
 
+create_provider = get_provider
+
+
 # --- 重试包装 ---
 
 

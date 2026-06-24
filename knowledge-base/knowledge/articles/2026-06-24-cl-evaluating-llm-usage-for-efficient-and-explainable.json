@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-cl-evaluating-llm-usage-for-efficient-and-explainable",
+  "title": "Evaluating LLM Usage for Efficient and Explainable Numerical and Classified Implicit Sentiment Analysis of Product Desirability",
+  "source": "arxiv-cs-cl",
+  "source_url": "https://arxiv.org/abs/2606.23701",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "该论文提出一种可扩展的隐式情感分析方法，利用大语言模型对产品定性反馈中的数值和分类情感进行高效且可解释的分析。",
+  "analysis": {
+    "tech_highlights": [
+      "隐式情感分析",
+      "大语言模型可解释性",
+      "产品反馈数值与分类情感分析"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "llm",
+    "sentiment-analysis",
+    "nlp",
+    "explainability"
+  ],
+  "status": "reviewed"
+}

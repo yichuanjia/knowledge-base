@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-24-ai-exploring-academic-influence-of-algorithms-by-co-o",
+  "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+  "source": "arxiv-cs-ai",
+  "source_url": "https://arxiv.org/abs/2606.24099",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "该论文提出基于学术论文全文的共现网络方法，用于探索算法在学术研究中的影响力，强调算法在AI时代的重要性。",
+  "analysis": {
+    "tech_highlights": [
+      "基于全文的共现网络分析算法影响力",
+      "量化算法在学术文献中的提及与关联"
+    ],
+    "relevance_score": 5
+  },
+  "tags": [
+    "co-occurrence-network",
+    "academic-influence",
+    "algorithm-analysis",
+    "full-text-mining"
+  ],
+  "status": "reviewed"
+}

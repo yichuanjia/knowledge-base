@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-24-lg-weight-space-geometry-of-offline-reasoning-trainin",
+  "title": "Weight-Space Geometry of Offline Reasoning Training",
+  "source": "arxiv-cs-lg",
+  "source_url": "https://arxiv.org/abs/2606.23740",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "该论文分析了多种离线强化学习损失函数（如RFT、RIFT、DFT、Offline GRPO、DPO）在将大模型推理能力蒸馏到小模型时的权重空间几何特性，揭示了不同训练目标对模型泛化的影响。",
+  "analysis": {
+    "tech_highlights": [
+      "系统比较多种离线强化学习损失函数的几何特性",
+      "揭示权重空间结构对推理蒸馏效果的影响",
+      "为小模型高效获取大模型推理能力提供理论指导"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "reinforcement-learning",
+    "reasoning-distillation",
+    "model-compression",
+    "offline-rl",
+    "weight-space-geometry"
+  ],
+  "status": "reviewed"
+}

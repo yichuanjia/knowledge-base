@@ -1,0 +1,21 @@
+{
+  "id": "2026-06-24-cl-one-year-later-the-harms-persist-but-so-do-we",
+  "title": "One Year Later...The Harms Persist, But So Do We!",
+  "source": "arxiv-cs-cl",
+  "source_url": "https://arxiv.org/abs/2606.23884",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "论文指出通用大语言模型在心理健康对话中安全防护不足，尽管已有一年时间，危害仍然持续存在。",
+  "analysis": {
+    "tech_highlights": [
+      "揭示LLM在心理健康场景中的安全缺陷",
+      "强调长期未解决的危害问题"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "llm",
+    "safety",
+    "mental-health"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "2026-06-24-github-hmdsimdev-heartmorrow",
+  "title": "HMDSimDev/heartmorrow",
+  "source": "github-trending",
+  "source_url": "https://github.com/HMDSimDev/heartmorrow",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "HMDSimDev/heartmorrow 是一个基于大语言模型（LLM）驱动的约会模拟器项目，利用AI技术生成互动剧情与角色对话。",
+  "analysis": {
+    "tech_highlights": [
+      "LLM驱动的对话生成",
+      "互动剧情模拟"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "llm",
+    "ai-game",
+    "simulation"
+  ],
+  "status": "reviewed"
+}

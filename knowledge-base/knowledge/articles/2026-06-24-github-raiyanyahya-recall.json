@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-github-raiyanyahya-recall",
+  "title": "raiyanyahya/recall",
+  "source": "github-trending",
+  "source_url": "https://github.com/raiyanyahya/recall",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "Recall 为 Claude Code 提供持久化离线记忆功能，避免每次会话重复解释项目，节省 token 消耗。",
+  "analysis": {
+    "tech_highlights": [
+      "持久化离线记忆",
+      "减少 token 浪费",
+      "与 Claude Code 集成"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "memory",
+    "claude",
+    "offline",
+    "developer-tools"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-24-ai-beyond-trajectory-imitation-strategy-guided-policy",
+  "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+  "source": "arxiv-cs-ai",
+  "source_url": "https://arxiv.org/abs/2606.24064",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "提出策略引导策略优化方法，超越轨迹模仿，提升弱语言模型推理能力。",
+  "analysis": {
+    "tech_highlights": [
+      "策略引导而非轨迹模仿",
+      "提升弱模型推理能力"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "llm",
+    "reasoning",
+    "policy-optimization",
+    "knowledge-distillation"
+  ],
+  "status": "reviewed"
+}

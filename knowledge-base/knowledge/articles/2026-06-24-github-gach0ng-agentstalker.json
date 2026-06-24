@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-24-github-gach0ng-agentstalker",
+  "title": "Gach0ng/AgentStalker",
+  "source": "github-trending",
+  "source_url": "https://github.com/Gach0ng/AgentStalker",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "AgentStalker 是一个标准化智能体漏洞基准，结合形式化污点追踪证明与跨语言统一 AST 模型，将代码审计与沙箱复现整合为一体化智能体安全工具。",
+  "analysis": {
+    "tech_highlights": [
+      "标准化智能体漏洞基准",
+      "形式化污点追踪证明",
+      "跨语言统一 AST 模型",
+      "代码审计与沙箱复现一体化"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "agent-security",
+    "vulnerability-benchmark",
+    "taint-tracking",
+    "ast",
+    "code-audit",
+    "open-source"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "2026-06-24-github-flatkey-ai-awesome-images",
+  "title": "flatkey-ai/awesome-images",
+  "source": "github-trending",
+  "source_url": "https://github.com/flatkey-ai/awesome-images",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "flatkey-ai/awesome-images 是一个 GitHub 项目，提供通过 flatkey.ai 生成实用图像的工具，声称可节省40%成本。",
+  "analysis": {
+    "tech_highlights": [
+      "声称节省40%成本",
+      "生成实用工作图像"
+    ],
+    "relevance_score": 4
+  },
+  "tags": [
+    "image-generation",
+    "ai-tools",
+    "open-source"
+  ],
+  "status": "reviewed"
+}

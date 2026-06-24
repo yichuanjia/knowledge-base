@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-24-cl-do-llm-attribution-metrics-transfer-auditing-retri",
+  "title": "Do LLM Attribution Metrics Transfer? Auditing Retrieval-Augmented Generation Evaluation Across Datasets and Constructs",
+  "source": "arxiv-cs-cl",
+  "source_url": "https://arxiv.org/abs/2606.23915",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "该研究审计了八种自动评分器在检索增强生成中归因度量的一致性，发现不同数据集和构念间度量不可互换。",
+  "analysis": {
+    "tech_highlights": [
+      "审计八种自动归因评分器",
+      "揭示度量在不同数据集和构念间的不可互换性",
+      "对RAG评估实践提出质疑"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "llm",
+    "retrieval-augmented-generation",
+    "evaluation",
+    "attribution",
+    "audit"
+  ],
+  "status": "reviewed"
+}

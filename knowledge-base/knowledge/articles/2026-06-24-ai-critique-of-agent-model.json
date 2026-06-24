@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-24-ai-critique-of-agent-model",
+  "title": "Critique of Agent Model",
+  "source": "arxiv-cs-ai",
+  "source_url": "https://arxiv.org/abs/2606.23991",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "该论文探讨了智能体的定义与本质，批判性地分析了当前被标榜为“编码智能体”和“AI 协同科学家”的大语言模型系统。",
+  "analysis": {
+    "tech_highlights": [
+      "对智能体概念的批判性分析",
+      "聚焦LLM系统在智能体定义上的争议"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "agent",
+    "llm",
+    "ai-philosophy",
+    "arxiv"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-github-johell1ns-browser-search",
+  "title": "Johell1NS/browser-search",
+  "source": "github-trending",
+  "source_url": "https://github.com/Johell1NS/browser-search",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "一个为AI代理设计的自托管搜索技能，结合SearXNG、Camofox和CloakBrowser实现免费无限制的网页搜索与浏览。",
+  "analysis": {
+    "tech_highlights": [
+      "集成SearXNG实现无限制搜索",
+      "使用Camofox进行浏览器自动化",
+      "通过CloakBrowser绕过反爬保护"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "ai-agent",
+    "self-hosted",
+    "web-search",
+    "open-source"
+  ],
+  "status": "reviewed"
+}

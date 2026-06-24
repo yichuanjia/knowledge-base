@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-ai-rift-bench-dynamic-red-teaming-for-agentic-ai-syst",
+  "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+  "source": "arxiv-cs-ai",
+  "source_url": "https://arxiv.org/abs/2606.23927",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "RIFT-Bench 是一个用于动态红队测试智能体 AI 系统的基准，旨在发现 LLM 驱动自主决策系统中的新型攻击向量。",
+  "analysis": {
+    "tech_highlights": [
+      "动态红队测试方法",
+      "针对自主决策系统的攻击向量发现"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "agent",
+    "llm",
+    "benchmark",
+    "red-teaming",
+    "security"
+  ],
+  "status": "reviewed"
+}

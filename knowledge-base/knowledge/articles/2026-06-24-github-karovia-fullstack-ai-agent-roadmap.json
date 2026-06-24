@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-github-karovia-fullstack-ai-agent-roadmap",
+  "title": "Karovia/fullstack-ai-agent-roadmap",
+  "source": "github-trending",
+  "source_url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "一个从零基础到AI Agent全栈工程师的中文学习路线图，包含110个教程、58万字和400+精选项目，支持Obsidian。",
+  "analysis": {
+    "tech_highlights": [
+      "涵盖从零基础到全栈的完整学习路径",
+      "集成400+精选GitHub项目与Obsidian支持"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "ai-agent",
+    "fullstack",
+    "roadmap",
+    "open-source",
+    "chinese"
+  ],
+  "status": "reviewed"
+}

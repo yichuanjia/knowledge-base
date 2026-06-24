@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-24-github-yo-wassup-good-badminton",
+  "title": "yo-WASSUP/Good-Badminton",
+  "source": "github-trending",
+  "source_url": "https://github.com/yo-WASSUP/Good-Badminton",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "基于AI的羽毛球鹰眼系统，利用计算机视觉技术实现球轨迹追踪与判罚辅助。",
+  "analysis": {
+    "tech_highlights": [
+      "AI驱动的球轨迹追踪",
+      "鹰眼系统在羽毛球场景的应用"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "computer-vision",
+    "sports-tech",
+    "ai",
+    "open-source"
+  ],
+  "status": "reviewed"
+}

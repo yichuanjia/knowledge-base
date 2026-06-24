@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-24-github-obsidianowl123-agentlens",
+  "title": "ObsidianOwl123/AgentLens",
+  "source": "github-trending",
+  "source_url": "https://github.com/ObsidianOwl123/AgentLens",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "AgentLens 是一个轻量级 AI 上下文压缩工具，专为 LLM 代理设计，用于减少上下文长度并提升效率。",
+  "analysis": {
+    "tech_highlights": [
+      "轻量级上下文压缩",
+      "专为 LLM 代理优化"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "context-compression",
+    "open-source"
+  ],
+  "status": "reviewed"
+}

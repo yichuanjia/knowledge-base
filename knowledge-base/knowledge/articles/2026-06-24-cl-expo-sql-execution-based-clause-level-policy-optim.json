@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-24-cl-expo-sql-execution-based-clause-level-policy-optim",
+  "title": "EXPO-SQL: Execution-based Clause-level Policy Optimization for Text-to-SQL",
+  "source": "arxiv-cs-cl",
+  "source_url": "https://arxiv.org/abs/2606.23693",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "提出基于执行结果的子句级策略优化方法EXPO-SQL，用于提升文本到SQL生成的准确性和鲁棒性。",
+  "analysis": {
+    "tech_highlights": [
+      "子句级策略优化",
+      "基于执行结果的反馈机制",
+      "提升SQL生成准确率"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "text-to-sql",
+    "reinforcement-learning",
+    "natural-language-processing",
+    "database",
+    "optimization"
+  ],
+  "status": "reviewed"
+}
