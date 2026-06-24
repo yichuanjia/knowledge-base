@@ -25,7 +25,9 @@ REQUIRED_FIELDS: dict[str, type] = {
 
 VALID_STATUSES = frozenset({"draft", "review", "published", "archived"})
 VALID_AUDIENCES = frozenset({"beginner", "intermediate", "advanced"})
-ID_PATTERN = re.compile(r"^[a-z][a-z0-9-]+-\d{8}-\d{3}$")
+ID_PATTERN = re.compile(
+    r"^\d{4}-\d{2}-\d{2}-[a-z][a-z0-9]*(-[a-z0-9]+)*-[a-z][a-z0-9-]+$"
+)
 URL_PATTERN = re.compile(r"^https?://")
 
 
@@ -88,7 +90,7 @@ def validate_single(filepath: Path) -> list[str]:
     if not ID_PATTERN.match(item_id):
         errors.append(
             f"{label}: ID 格式错误 '{item_id}'，"
-            f"期望格式 {{source}}-{{YYYYMMDD}}-{{NNN}}，如 github-20260317-001"
+            f"期望格式 {{YYYY-MM-DD}}-{{source}}-{{slug}}，如 2026-06-24-github-langgraph"
         )
 
     status: str = data["status"]
@@ -137,10 +139,41 @@ def validate_single(filepath: Path) -> list[str]:
     return errors
 
 
-def expand_globs(args: list[str]) -> list[Path]:
-    """展开通配符并收集所有 JSON 文件路径。
+_SEARCH_DIRS = ("knowledge/articles", "knowledge/raw", ".")
 
-    支持字面量路径和通配符（*/?/[）两种模式，去重排序后返回。
+
+def _try_resolve(arg: str, search_dir: str) -> Path | None:
+    """在指定目录下尝试匹配单个文件或通配符。
+
+    Args:
+        arg: 命令行参数（可能是字面量路径或通配符）。
+        search_dir: 搜索基准目录。
+
+    Returns:
+        匹配到的 Path，未找到返回 None。
+    """
+    base = Path(search_dir)
+    filename = Path(arg).name
+    has_glob = any(ch in arg for ch in ("*", "?", "["))
+
+    if has_glob:
+        for pattern in (arg, filename):
+            matched = list(base.glob(pattern))
+            if matched:
+                return matched[0].resolve()
+        return None
+
+    for candidate_path in (base / arg, base / filename):
+        if candidate_path.is_file() and candidate_path.suffix == ".json":
+            return candidate_path.resolve()
+    return None
+
+
+def expand_globs(args: list[str]) -> list[Path]:
+    """展开通配符并收集 JSON 文件路径，支持回退目录搜索。
+
+    先尝试原始路径，再依次尝试 knowledge/articles/、knowledge/raw/ 目录。
+    支持字面量路径和通配符，去重排序后返回。
 
     Args:
         args: 命令行参数列表。
@@ -152,25 +185,15 @@ def expand_globs(args: list[str]) -> list[Path]:
     result: list[Path] = []
 
     for arg in args:
-        has_glob = any(ch in arg for ch in ("*", "?", "["))
-        path = Path(arg)
-
-        if has_glob:
-            matched = list(Path().glob(arg))
-            if not matched:
-                logger.warning("通配符未匹配到文件: %s", arg)
-            for p in matched:
-                resolved = p.resolve()
-                if resolved not in seen and resolved.suffix == ".json":
-                    seen.add(resolved)
-                    result.append(resolved)
-        elif path.is_file():
-            resolved = path.resolve()
-            if resolved not in seen and resolved.suffix == ".json":
+        found = False
+        for search_dir in _SEARCH_DIRS:
+            resolved = _try_resolve(arg, search_dir)
+            if resolved is not None and resolved not in seen:
                 seen.add(resolved)
                 result.append(resolved)
-        else:
-            logger.warning("文件不存在或不是 JSON 文件: %s", arg)
+                found = True
+        if not found:
+            logger.warning("未找到文件: %s", arg)
 
     result.sort()
     return result
@@ -203,6 +226,7 @@ def main() -> int:
             for err in errors:
                 logger.error(err)
         else:
+            logger.info(f"✓ {filepath}")
             passed += 1
 
     logger.info("=" * 50)

@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-24-github-langgraph-loop",
+  "title": "LangGraph: 构建有状态多Agent工作流框架",
+  "source": "github-trending",
+  "source_url": "https://github.com/langchain-ai/langgraph",
+  "collected_at": "2026-06-24T12:00:00Z",
+  "summary": "LangGraph构建有状态多Agent协作工作流的Python框架",
+  "analysis": {
+    "tech_highlights": [
+      "有状态多Agent工作流编排",
+      "基于有向图循环控制流",
+      "与LangChain生态深度集成"
+    ],
+    "relevance_score": 8
+  },
+  "tags": ["agent", "workflow", "framework", "python"],
+  "status": "draft"
+}

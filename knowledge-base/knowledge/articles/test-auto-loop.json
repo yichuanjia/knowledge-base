@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-24-github-langgraph",
+  "title": "LangGraph: 有状态多Agent工作流编排框架",
+  "source": "github-trending",
+  "source_url": "https://github.com/langchain-ai/langgraph",
+  "collected_at": "2026-06-24T12:00:00Z",
+  "summary": "LangGraph构建基于有向图循环控制流的多Agent协作框架，支持状态持久化与条件分支，深度集成LangChain生态",
+  "analysis": {
+    "tech_highlights": [
+      "有向图循环控制流编排",
+      "状态持久化与条件分支",
+      "与LangChain生态深度集成"
+    ],
+    "relevance_score": 8
+  },
+  "tags": ["agent", "workflow", "langchain"],
+  "status": "published"
+}
