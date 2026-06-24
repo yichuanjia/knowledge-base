@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-23-github-lmcache",
+  "title": "LMCache: 加速LLM推理的KV缓存层",
+  "source": "github-trending",
+  "source_url": "https://github.com/LMCache/LMCache",
+  "collected_at": "2026-06-23T12:00:00Z",
+  "summary": "加速LLM推理的KV缓存层，通过高效缓存机制大幅提升LLM服务吞吐量与响应速度",
+  "analysis": {
+    "tech_highlights": [
+      "KV 缓存机制加速 LLM 推理",
+      "提升 LLM 服务吞吐量与响应速度",
+      "可集成到现有 LLM 服务架构中"
+    ],
+    "relevance_score": 7
+  },
+  "tags": ["llm", "kv-cache", "inference", "optimization", "serving"],
+  "status": "published"
+}

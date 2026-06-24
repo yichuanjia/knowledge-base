@@ -1,0 +1,148 @@
+{
+  "skill": "tech-summary",
+  "analyzed_at": "2026-06-23T12:00:00Z",
+  "source_file": "github-trending-2026-06-23.json",
+  "trends": {
+    "common_themes": [
+      "Agent 生态工具链爆发（技能集、互联网接入、视频制作、安全扫描、沙箱框架）",
+      "AI 推理基础设施优化（KV缓存加速、Token消耗降低）",
+      "AI 安全与透明度（提示词泄露、Agent安全扫描）"
+    ],
+    "new_concepts": [
+      "Agentic 视频制作 — Agent 范式首次系统应用于视频制作全流程",
+      "Agent 技能安全扫描 — 专门针对 Agent 生态的安全检测工具",
+      "互联网视觉 — Agent 无需 API 直接'看'网页并交互的能力"
+    ]
+  },
+  "items": [
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "面向AI编程Agent的生产级工程技能集，覆盖代码生成、测试与部署全流程最佳实践",
+      "tech_highlights": [
+        "65K+ GitHub 星标，社区认可度极高",
+        "覆盖代码生成、测试与部署全流程",
+        "来自 Google Chrome 工程师 Addy Osmani"
+      ],
+      "score": 8,
+      "score_reason": "对使用 AI 编码助手的开发者有直接帮助，工程方法论系统化、生产级质量，但本质是技能方法论集合而非底层技术突破",
+      "tags": ["agent", "coding-agent", "best-practices", "prompt-engineering", "engineering"]
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "summary": "AI驱动实时全球情报仪表板，集成新闻聚合、地缘政治监控与基础设施追踪",
+      "tech_highlights": [
+        "AI 驱动实时全球情报聚合",
+        "集成地缘政治监控与基础设施追踪"
+      ],
+      "score": 5,
+      "score_reason": "AI 应用层的可视化仪表板项目，与核心 AI/LLM/Agent 领域关联较弱，属于 AI 赋能工具，值得了解但参考价值有限",
+      "tags": ["ai", "dashboard", "monitoring", "intelligence", "news-aggregation"]
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "summary": "提取并公开Claude/ChatGPT/Gemini/Grok等主流AI模型的系统提示词，揭示模型内部行为指令",
+      "tech_highlights": [
+        "覆盖 Claude、ChatGPT、Gemini、Grok 等主流模型",
+        "持续更新的系统提示词泄露库",
+        "揭示模型内部行为指令与约束"
+      ],
+      "score": 6,
+      "score_reason": "对 Prompt Engineering 和安全研究有参考价值，帮助理解模型行为边界，但本质是信息收集项目而非技术创新，关注后续发展即可",
+      "tags": ["llm", "system-prompt", "prompt-engineering", "security"]
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "summary": "为AI Agent赋予互联网视觉能力，一条CLI命令零API费用读写Twitter/Reddit/YouTube/GitHub",
+      "tech_highlights": [
+        "零 API 费用，一条 CLI 命令即可使用",
+        "支持 Twitter、Reddit、YouTube、GitHub 等平台读写",
+        "为 Agent 赋予直接'看'网页内容的互联网视觉能力"
+      ],
+      "score": 8,
+      "score_reason": "实用的 Agent 互联网交互工具，零 API 费用大幅降低使用门槛，'互联网视觉'能力减少对平台 API 的依赖，对构建联网 Agent 应用的开发者有直接帮助",
+      "tags": ["agent", "web-scraping", "internet-access", "social-media", "cli"]
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "summary": "Google Research时间序列基础模型，预训练即用，提供开箱即用的深度学习预测方案",
+      "tech_highlights": [
+        "Google Research 官方发布的领域基础模型",
+        "预训练即用，无需从头训练",
+        "将基础模型范式引入时间序列预测领域"
+      ],
+      "score": 9,
+      "score_reason": "Google Research 将基础模型范式系统性地引入时间序列预测领域，可能改变该领域传统统计方法主导的格局，属于领域级突破，值得重点关注后续发展",
+      "tags": ["time-series", "foundation-model", "forecasting", "deep-learning", "google"]
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "summary": "全球首个开源Agentic视频制作系统，含12条管线、52个工具、500+Agent技能",
+      "tech_highlights": [
+        "12 条管线、52 个工具、500+ Agent 技能",
+        "全球首个开源 Agentic 视频制作系统",
+        "将 AI 编码助手转变为全套视频工作室"
+      ],
+      "score": 7,
+      "score_reason": "Agent 在视频制作领域的创新应用，工具链完善、技能丰富，开创了 Agentic 视频制作新方向，对多媒体 Agent 应用开发有较高参考价值",
+      "tags": ["agent", "video-production", "agentic", "pipeline", "multimodal", "open-source"]
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "summary": "高性能MCP代码智能服务器，将代码库索引为持久化知识图谱，支持158种语言，亚毫秒查询，减少99% Token消耗",
+      "tech_highlights": [
+        "支持 158 种编程语言",
+        "亚毫秒查询速度，减少 99% Token 消耗",
+        "将代码库索引为持久化知识图谱（基于 MCP 协议）"
+      ],
+      "score": 8,
+      "score_reason": "MCP 协议下的实用代码智能工具，语言覆盖广、Token 节省效果显著，直接降低 AI 编码成本，对日常开发有直接帮助",
+      "tags": ["mcp", "code-intelligence", "knowledge-graph", "developer-tools"]
+    },
+    {
+      "name": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "summary": "加速LLM推理的KV缓存层，通过高效缓存机制大幅提升LLM服务吞吐量与响应速度",
+      "tech_highlights": [
+        "KV 缓存机制加速 LLM 推理",
+        "提升 LLM 服务吞吐量与响应速度",
+        "可集成到现有 LLM 服务架构中"
+      ],
+      "score": 7,
+      "score_reason": "LLM 推理加速的重要基础设施组件，对部署和优化 LLM 服务的团队有直接帮助，但需与具体服务框架适配",
+      "tags": ["llm", "kv-cache", "inference", "optimization", "serving"]
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "summary": "NVIDIA推出的AI Agent技能安全扫描器，自动检测漏洞、恶意模式和安全风险",
+      "tech_highlights": [
+        "NVIDIA 官方发布的 Agent 安全工具",
+        "自动检测漏洞、恶意模式和安全风险",
+        "专为 AI Agent 生态设计"
+      ],
+      "score": 7,
+      "score_reason": "NVIDIA 填补 Agent 安全扫描领域空白，标志着 Agent 安全从'可选'走向'基础设施级'需求，对 Agent 开发者的安全实践有重要参考价值",
+      "tags": ["security", "agent", "scanner", "vulnerability", "nvidia"]
+    },
+    {
+      "name": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "summary": "Astro团队打造的沙箱Agent框架，提供安全隔离执行环境，支持多Agent协作",
+      "tech_highlights": [
+        "Astro 团队打造的质量保证",
+        "沙箱隔离执行环境保障安全",
+        "原生支持多 Agent 协作"
+      ],
+      "score": 7,
+      "score_reason": "注重安全隔离的 Agent 框架，来自 Astro 成熟团队，沙箱+多Agent协作设计对需要安全执行环境的 Agent 应用有参考价值",
+      "tags": ["agent", "sandbox", "framework", "security", "isolation"]
+    }
+  ]
+}

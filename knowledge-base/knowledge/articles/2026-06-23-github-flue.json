@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-23-github-flue",
+  "title": "flue: 沙箱Agent框架",
+  "source": "github-trending",
+  "source_url": "https://github.com/withastro/flue",
+  "collected_at": "2026-06-23T12:00:00Z",
+  "summary": "Astro团队打造的沙箱Agent框架，提供安全隔离执行环境，支持多Agent协作",
+  "analysis": {
+    "tech_highlights": [
+      "Astro 团队打造的质量保证",
+      "沙箱隔离执行环境保障安全",
+      "原生支持多 Agent 协作"
+    ],
+    "relevance_score": 7
+  },
+  "tags": ["agent", "sandbox", "framework", "security", "isolation"],
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-23-github-openmontage",
+  "title": "OpenMontage: 开源Agentic视频制作系统",
+  "source": "github-trending",
+  "source_url": "https://github.com/calesthio/OpenMontage",
+  "collected_at": "2026-06-23T12:00:00Z",
+  "summary": "全球首个开源Agentic视频制作系统，含12条管线、52个工具、500+Agent技能",
+  "analysis": {
+    "tech_highlights": [
+      "12 条管线、52 个工具、500+ Agent 技能",
+      "全球首个开源 Agentic 视频制作系统",
+      "将 AI 编码助手转变为全套视频工作室"
+    ],
+    "relevance_score": 7
+  },
+  "tags": ["agent", "video-production", "agentic", "pipeline", "multimodal", "open-source"],
+  "status": "published"
+}

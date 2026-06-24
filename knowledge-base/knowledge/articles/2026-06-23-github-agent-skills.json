@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-23-github-agent-skills",
+  "title": "agent-skills: 面向AI编程Agent的生产级工程技能集",
+  "source": "github-trending",
+  "source_url": "https://github.com/addyosmani/agent-skills",
+  "collected_at": "2026-06-23T12:00:00Z",
+  "summary": "面向AI编程Agent的生产级工程技能集，覆盖代码生成、测试与部署全流程最佳实践",
+  "analysis": {
+    "tech_highlights": [
+      "65K+ GitHub 星标，社区认可度极高",
+      "覆盖代码生成、测试与部署全流程",
+      "来自 Google Chrome 工程师 Addy Osmani"
+    ],
+    "relevance_score": 8
+  },
+  "tags": ["agent", "coding-agent", "best-practices", "prompt-engineering", "engineering"],
+  "status": "published"
+}
