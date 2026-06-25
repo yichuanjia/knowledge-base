@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-github-simpl3x3-eseilane",
+  "title": "Simpl3x3/ESEILANE",
+  "source": "github-trending",
+  "source_url": "https://github.com/Simpl3x3/ESEILANE",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "ESEILANE 是一个高性能知识图谱引擎，专为 AI、LLM 和 GraphRAG 设计，旨在支持下一代智能应用。",
+  "analysis": {
+    "tech_highlights": [
+      "面向 LLM 和 GraphRAG 的高性能知识图谱引擎",
+      "专为下一代智能应用构建"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "knowledge-graph",
+    "llm",
+    "graphrag",
+    "ai",
+    "open-source"
+  ],
+  "status": "reviewed"
+}

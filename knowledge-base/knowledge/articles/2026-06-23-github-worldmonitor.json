@@ -1,0 +1,17 @@
+{
+  "id": "2026-06-23-github-worldmonitor",
+  "title": "worldmonitor: AI驱动实时全球情报仪表板",
+  "source": "github-trending",
+  "source_url": "https://github.com/koala73/worldmonitor",
+  "collected_at": "2026-06-23T12:00:00Z",
+  "summary": "AI驱动实时全球情报仪表板，集成新闻聚合、地缘政治监控与基础设施追踪",
+  "analysis": {
+    "tech_highlights": [
+      "AI 驱动实时全球情报聚合",
+      "集成地缘政治监控与基础设施追踪"
+    ],
+    "relevance_score": 5
+  },
+  "tags": ["ai", "dashboard", "monitoring", "intelligence", "news-aggregation"],
+  "status": "published"
+}

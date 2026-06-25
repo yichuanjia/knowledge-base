@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-23-github-vercel-eve",
+  "title": "Vercel Eve: 标准化 Agent 构建框架",
+  "source": "github-trending",
+  "source_url": "https://github.com/vercel/eve",
+  "collected_at": "2026-06-23T10:00:00Z",
+  "summary": "Vercel 开源的 Agent 框架，提供标准化工具链和运行时环境",
+  "analysis": {
+    "tech_highlights": [
+      "Vercel 官方 Agent 框架",
+      "标准化开发工具链",
+      "Agent 运行时环境"
+    ],
+    "relevance_score": 7,
+    "score_reason": "Vercel 作为前端/全栈领域的顶尖公司，其 Agent 框架具备良好的工程质量和生态支持。标准化工具链和运行时设计可为 Agent 系统架构提供参考。但定位偏前端/Web Agent 场景，与当前 Python 后端知识库系统有一定技术栈差异。"
+  },
+  "tags": [
+    "agent-framework",
+    "vercel",
+    "toolchain",
+    "runtime",
+    "open-source"
+  ],
+  "status": "published"
+}

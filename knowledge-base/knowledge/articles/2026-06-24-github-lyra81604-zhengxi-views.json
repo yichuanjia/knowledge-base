@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-24-github-lyra81604-zhengxi-views",
+  "title": "lyra81604/zhengxi-views",
+  "source": "github-trending",
+  "source_url": "https://github.com/lyra81604/zhengxi-views",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "基于易方达基金经理郑希公开观点和基金数据的投研Agent，支持溯源问答和基金评分，仅供研究学习。",
+  "analysis": {
+    "tech_highlights": [
+      "基于公开观点原文的溯源问答",
+      "按基金经理框架的基金打分系统"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "agent",
+    "finance",
+    "open-source",
+    "data-analysis"
+  ],
+  "status": "reviewed"
+}

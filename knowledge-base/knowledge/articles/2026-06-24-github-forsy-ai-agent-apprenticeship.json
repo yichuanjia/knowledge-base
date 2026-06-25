@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-github-forsy-ai-agent-apprenticeship",
+  "title": "Forsy-AI/agent-apprenticeship",
+  "source": "github-trending",
+  "source_url": "https://github.com/Forsy-AI/agent-apprenticeship",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "一个让AI代理通过迭代工作流循环、可复用经验和集体训练信号交换，从真实世界工作中学习的生态系统。",
+  "analysis": {
+    "tech_highlights": [
+      "迭代工作流循环学习",
+      "可复用经验机制",
+      "集体训练信号交换"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "agent",
+    "workflow",
+    "ai-training",
+    "open-source"
+  ],
+  "status": "reviewed"
+}

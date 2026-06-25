@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-23-github-system-prompts-leaks",
+  "title": "system_prompts_leaks: 提取并公开主流AI模型的系统提示词",
+  "source": "github-trending",
+  "source_url": "https://github.com/asgeirtj/system_prompts_leaks",
+  "collected_at": "2026-06-23T12:00:00Z",
+  "summary": "提取并公开Claude/ChatGPT/Gemini/Grok等主流AI模型的系统提示词，揭示模型内部行为指令",
+  "analysis": {
+    "tech_highlights": [
+      "覆盖 Claude、ChatGPT、Gemini、Grok 等主流模型",
+      "持续更新的系统提示词泄露库",
+      "揭示模型内部行为指令与约束"
+    ],
+    "relevance_score": 6
+  },
+  "tags": ["llm", "system-prompt", "prompt-engineering", "security"],
+  "status": "published"
+}

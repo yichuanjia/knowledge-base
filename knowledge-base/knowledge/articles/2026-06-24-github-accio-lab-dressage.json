@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-github-accio-lab-dressage",
+  "title": "Accio-Lab/Dressage",
+  "source": "github-trending",
+  "source_url": "https://github.com/Accio-Lab/Dressage",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "Dressage 是一个可扩展的强化学习框架，支持任意智能体与沙箱环境，便于快速实验与部署。",
+  "analysis": {
+    "tech_highlights": [
+      "支持任意智能体与沙箱环境",
+      "可扩展的强化学习框架设计"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "reinforcement-learning",
+    "framework",
+    "scalable",
+    "agent",
+    "open-source"
+  ],
+  "status": "reviewed"
+}

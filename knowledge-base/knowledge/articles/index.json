@@ -1,0 +1,182 @@
+[
+  {
+    "id": "2026-06-23-github-ponytail",
+    "title": "ponytail: AI coding agent 极简代码生成器",
+    "file": "2026-06-23-github-ponytail.json",
+    "source": "github-trending",
+    "tags": ["ai-coding-agent", "code-optimization", "cost-reduction", "multi-platform", "open-source"],
+    "relevance_score": 8,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-mimo-code",
+    "title": "MiMo-Code: 小米开源多 Agent AI 编程助手",
+    "file": "2026-06-23-github-mimo-code.json",
+    "source": "github-trending",
+    "tags": ["open-code", "multi-agent", "xiaomi", "code-assistant", "open-source"],
+    "relevance_score": 9,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-improve",
+    "title": "shadcn/improve: 智能分层 AI 编码工作流",
+    "file": "2026-06-23-github-improve.json",
+    "source": "github-trending",
+    "tags": ["cost-optimization", "model-tiering", "code-review", "workflow", "shadcn"],
+    "relevance_score": 7,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-omnigent",
+    "title": "OmniGent: 多 Agent 元编排框架",
+    "file": "2026-06-23-github-omnigent.json",
+    "source": "github-trending",
+    "tags": ["agent-orchestration", "multi-agent", "sandbox", "open-source", "python"],
+    "relevance_score": 8,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-lottie",
+    "title": "diffusionstudio/lottie: AI 驱动的 Lottie 动画生成",
+    "file": "2026-06-23-github-lottie.json",
+    "source": "github-trending",
+    "tags": ["lottie", "animation", "ai-design-tool", "claude-code", "codex"],
+    "relevance_score": 3,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-builderio-skills",
+    "title": "BuilderIO/skills: AI 编程 Agent 技能集合",
+    "file": "2026-06-23-github-builderio-skills.json",
+    "source": "github-trending",
+    "tags": ["agent-skills", "skill-standardization", "builderio", "coding-agent", "modular"],
+    "relevance_score": 7,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-vercel-eve",
+    "title": "Vercel Eve: 标准化 Agent 构建框架",
+    "file": "2026-06-23-github-vercel-eve.json",
+    "source": "github-trending",
+    "tags": ["agent-framework", "vercel", "toolchain", "runtime", "open-source"],
+    "relevance_score": 7,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-baoyu-design",
+    "title": "baoyu-design: 本地运行 Claude Design 的 Agent Skill",
+    "file": "2026-06-23-github-baoyu-design.json",
+    "source": "github-trending",
+    "tags": ["agent-skill", "claude-design", "ui-prototype", "local-first", "cursor"],
+    "relevance_score": 5,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-joyai-echo",
+    "title": "JoyAI-Echo: 京东长音频-视觉联合生成模型",
+    "file": "2026-06-23-github-joyai-echo.json",
+    "source": "github-trending",
+    "tags": ["audio-generation", "visual-generation", "multi-modal", "jingdong", "open-source"],
+    "relevance_score": 4,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-loop-library",
+    "title": "loop-library: AI Agent 循环模式库",
+    "file": "2026-06-23-github-loop-library.json",
+    "source": "github-trending",
+    "tags": ["agent-workflow", "loop-patterns", "agent-skill", "langgraph", "orchestration"],
+    "relevance_score": 7,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-agent-skills",
+    "title": "agent-skills: 面向AI编程Agent的生产级工程技能集",
+    "file": "2026-06-23-github-agent-skills.json",
+    "source": "github-trending",
+    "tags": ["agent", "coding-agent", "best-practices", "prompt-engineering", "engineering"],
+    "relevance_score": 8,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-worldmonitor",
+    "title": "worldmonitor: AI驱动实时全球情报仪表板",
+    "file": "2026-06-23-github-worldmonitor.json",
+    "source": "github-trending",
+    "tags": ["ai", "dashboard", "monitoring", "intelligence", "news-aggregation"],
+    "relevance_score": 5,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-system-prompts-leaks",
+    "title": "system_prompts_leaks: 提取并公开主流AI模型的系统提示词",
+    "file": "2026-06-23-github-system-prompts-leaks.json",
+    "source": "github-trending",
+    "tags": ["llm", "system-prompt", "prompt-engineering", "security"],
+    "relevance_score": 6,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-agent-reach",
+    "title": "Agent-Reach: 为AI Agent赋予互联网视觉能力",
+    "file": "2026-06-23-github-agent-reach.json",
+    "source": "github-trending",
+    "tags": ["agent", "web-scraping", "internet-access", "social-media", "cli"],
+    "relevance_score": 8,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-timesfm",
+    "title": "timesfm: Google时间序列基础模型",
+    "file": "2026-06-23-github-timesfm.json",
+    "source": "github-trending",
+    "tags": ["time-series", "foundation-model", "forecasting", "deep-learning", "google"],
+    "relevance_score": 9,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-openmontage",
+    "title": "OpenMontage: 开源Agentic视频制作系统",
+    "file": "2026-06-23-github-openmontage.json",
+    "source": "github-trending",
+    "tags": ["agent", "video-production", "agentic", "pipeline", "multimodal", "open-source"],
+    "relevance_score": 7,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-codebase-memory-mcp",
+    "title": "codebase-memory-mcp: 高性能MCP代码智能服务器",
+    "file": "2026-06-23-github-codebase-memory-mcp.json",
+    "source": "github-trending",
+    "tags": ["mcp", "code-intelligence", "knowledge-graph", "developer-tools"],
+    "relevance_score": 8,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-lmcache",
+    "title": "LMCache: 加速LLM推理的KV缓存层",
+    "file": "2026-06-23-github-lmcache.json",
+    "source": "github-trending",
+    "tags": ["llm", "kv-cache", "inference", "optimization", "serving"],
+    "relevance_score": 7,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-skillspector",
+    "title": "SkillSpector: AI Agent技能安全扫描器",
+    "file": "2026-06-23-github-skillspector.json",
+    "source": "github-trending",
+    "tags": ["security", "agent", "scanner", "vulnerability", "nvidia"],
+    "relevance_score": 7,
+    "status": "published"
+  },
+  {
+    "id": "2026-06-23-github-flue",
+    "title": "flue: 沙箱Agent框架",
+    "file": "2026-06-23-github-flue.json",
+    "source": "github-trending",
+    "tags": ["agent", "sandbox", "framework", "security", "isolation"],
+    "relevance_score": 7,
+    "status": "published"
+  }
+]

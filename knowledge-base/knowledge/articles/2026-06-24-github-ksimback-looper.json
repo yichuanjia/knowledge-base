@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-24-github-ksimback-looper",
+  "title": "ksimback/looper",
+  "source": "github-trending",
+  "source_url": "https://github.com/ksimback/looper",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "Looper 是一个可视化工具，允许用户在运行前为 Claude Code 设计并审查带门控机制的智能体循环流程。",
+  "analysis": {
+    "tech_highlights": [
+      "可视化设计 agent 循环流程",
+      "集成 review-gated 机制",
+      "面向 Claude Code 的预运行验证"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "agent",
+    "llm",
+    "visualization",
+    "workflow",
+    "claude"
+  ],
+  "status": "reviewed"
+}

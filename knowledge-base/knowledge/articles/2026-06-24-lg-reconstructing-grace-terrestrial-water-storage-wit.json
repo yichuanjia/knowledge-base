@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-24-lg-reconstructing-grace-terrestrial-water-storage-wit",
+  "title": "Reconstructing GRACE Terrestrial Water Storage with Spatio-Temporal Graph Neural Networks: An Application to South America",
+  "source": "arxiv-cs-lg",
+  "source_url": "https://arxiv.org/abs/2606.23833",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "该研究提出使用时空图神经网络重建GRACE陆地水储量数据，并在南美洲进行应用验证。",
+  "analysis": {
+    "tech_highlights": [
+      "时空图神经网络用于重建GRACE陆地水储量",
+      "南美洲区域应用验证"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "graph-neural-network",
+    "climate",
+    "hydrology",
+    "remote-sensing"
+  ],
+  "status": "reviewed"
+}

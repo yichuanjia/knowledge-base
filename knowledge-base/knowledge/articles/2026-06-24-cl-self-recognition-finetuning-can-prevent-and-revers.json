@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-cl-self-recognition-finetuning-can-prevent-and-revers",
+  "title": "Self-Recognition Finetuning can Prevent and Reverse Emergent Misalignment",
+  "source": "arxiv-cs-cl",
+  "source_url": "https://arxiv.org/abs/2606.23700",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "该研究提出自我识别微调方法，可预防并逆转大模型在训练中出现的突发性对齐偏离，通过抑制恶意人格向量激活实现。",
+  "analysis": {
+    "tech_highlights": [
+      "自我识别微调机制",
+      "突发性对齐偏离的预防与逆转",
+      "基于人格向量激活的干预方法"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "llm",
+    "alignment",
+    "fine-tuning",
+    "safety"
+  ],
+  "status": "reviewed"
+}

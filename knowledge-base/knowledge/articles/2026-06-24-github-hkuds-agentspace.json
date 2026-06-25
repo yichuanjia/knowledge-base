@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-24-github-hkuds-agentspace",
+  "title": "HKUDS/AgentSpace",
+  "source": "github-trending",
+  "source_url": "https://github.com/HKUDS/AgentSpace",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "AgentSpace 是一个开源项目，旨在构建人类与AI代理协同工作的统一工作空间，提升团队效率。",
+  "analysis": {
+    "tech_highlights": [
+      "人类与AI代理无缝协作的集成工作空间",
+      "支持多代理协同与任务分配"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "agent",
+    "human-ai-collaboration",
+    "workspace",
+    "open-source"
+  ],
+  "status": "reviewed"
+}

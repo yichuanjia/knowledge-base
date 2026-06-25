@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-24-lg-a-survey-on-federated-causal-discovery-and-inferen",
+  "title": "A Survey on Federated Causal Discovery and Inference",
+  "source": "arxiv-cs-lg",
+  "source_url": "https://arxiv.org/abs/2606.23741",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "综述联邦因果发现与推断，探讨分布式数据下因果结构学习与效应估计的方法、挑战与未来方向。",
+  "analysis": {
+    "tech_highlights": [
+      "系统梳理联邦因果发现与推断的现有方法",
+      "分析分布式数据隐私约束下的因果学习挑战"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "federated-learning",
+    "causal-discovery",
+    "causal-inference",
+    "survey"
+  ],
+  "status": "reviewed"
+}

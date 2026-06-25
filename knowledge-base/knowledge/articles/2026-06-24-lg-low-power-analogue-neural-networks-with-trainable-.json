@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-lg-low-power-analogue-neural-networks-with-trainable-",
+  "title": "Low-power analogue neural networks with trainable nonlinear connections for continuous control",
+  "source": "arxiv-cs-lg",
+  "source_url": "https://arxiv.org/abs/2606.23742",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "提出一种具有可训练非线性连接的低功耗模拟神经网络，用于连续控制任务，通过直接利用模拟器件物理进行计算以降低能耗。",
+  "analysis": {
+    "tech_highlights": [
+      "可训练非线性连接",
+      "模拟器件物理直接计算",
+      "低功耗连续控制"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "analog-computing",
+    "neural-networks",
+    "low-power",
+    "continuous-control"
+  ],
+  "status": "reviewed"
+}

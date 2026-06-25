@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-24-github-valorant-ai-valorant-ai-aimbot-undetected",
+  "title": "Valorant-AI/valorant-ai-aimbot-undetected",
+  "source": "github-trending",
+  "source_url": "https://github.com/Valorant-AI/valorant-ai-aimbot-undetected",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "一个针对Valorant游戏的AI自瞄与ESP透视工具，宣称具备反检测能力，采用神经网络精准瞄准、绕过Vanguard检测的外部架构及拟人化瞄准算法。",
+  "analysis": {
+    "tech_highlights": [
+      "神经网络驱动的精准瞄准",
+      "Vanguard安全的外部架构",
+      "拟人化瞄准算法"
+    ],
+    "relevance_score": 3
+  },
+  "tags": [
+    "ai-aimbot",
+    "game-hacking",
+    "neural-network",
+    "esp-overlay",
+    "valorant"
+  ],
+  "status": "reviewed"
+}

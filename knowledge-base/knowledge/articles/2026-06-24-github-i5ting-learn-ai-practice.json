@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-24-github-i5ting-learn-ai-practice",
+  "title": "i5ting/learn-ai-practice",
+  "source": "github-trending",
+  "source_url": "https://github.com/i5ting/learn-ai-practice",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "一个开源的学习AI实践项目，提供从基础到进阶的AI技术教程和代码示例，适合开发者系统学习AI应用开发。",
+  "analysis": {
+    "tech_highlights": [
+      "系统化AI学习路径",
+      "配套实践代码",
+      "覆盖主流AI框架和工具"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "ai",
+    "tutorial",
+    "open-source",
+    "machine-learning",
+    "deep-learning"
+  ],
+  "status": "reviewed"
+}

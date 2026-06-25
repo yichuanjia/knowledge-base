@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-23-github-skillspector",
+  "title": "SkillSpector: AI Agent技能安全扫描器",
+  "source": "github-trending",
+  "source_url": "https://github.com/NVIDIA/SkillSpector",
+  "collected_at": "2026-06-23T12:00:00Z",
+  "summary": "NVIDIA推出的AI Agent技能安全扫描器，自动检测漏洞、恶意模式和安全风险",
+  "analysis": {
+    "tech_highlights": [
+      "NVIDIA 官方发布的 Agent 安全工具",
+      "自动检测漏洞、恶意模式和安全风险",
+      "专为 AI Agent 生态设计"
+    ],
+    "relevance_score": 7
+  },
+  "tags": ["security", "agent", "scanner", "vulnerability", "nvidia"],
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-23-github-agent-reach",
+  "title": "Agent-Reach: 为AI Agent赋予互联网视觉能力",
+  "source": "github-trending",
+  "source_url": "https://github.com/Panniantong/Agent-Reach",
+  "collected_at": "2026-06-23T12:00:00Z",
+  "summary": "为AI Agent赋予互联网视觉能力，一条CLI命令零API费用读写Twitter/Reddit/YouTube/GitHub",
+  "analysis": {
+    "tech_highlights": [
+      "零 API 费用，一条 CLI 命令即可使用",
+      "支持 Twitter、Reddit、YouTube、GitHub 等平台读写",
+      "为 Agent 赋予直接'看'网页内容的互联网视觉能力"
+    ],
+    "relevance_score": 8
+  },
+  "tags": ["agent", "web-scraping", "internet-access", "social-media", "cli"],
+  "status": "published"
+}

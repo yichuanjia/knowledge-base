@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-23-github-ponytail",
+  "title": "ponytail: AI coding agent 极简代码生成器",
+  "source": "github-trending",
+  "source_url": "https://github.com/DietrichGebert/ponytail",
+  "collected_at": "2026-06-23T10:00:00Z",
+  "summary": "让 AI Agent 用最少代码完成任务，实测减 54% 代码、降 20% 成本，支持 11 个平台",
+  "analysis": {
+    "tech_highlights": [
+      "实测减 54% 代码量",
+      "降低 20% API 成本",
+      "支持 11 个平台"
+    ],
+    "relevance_score": 8,
+    "score_reason": "对 AI 编程 Agent 开发者有直接实用价值，可直接集成到 OpenCode/Claude Code 等主流平台降低成本和提高效率。虽非基础模型或范式级创新，但 5 万星验证了其广泛需求和有效性，对个人技术栈的直接帮助显著。"
+  },
+  "tags": [
+    "ai-coding-agent",
+    "code-optimization",
+    "cost-reduction",
+    "multi-platform",
+    "open-source"
+  ],
+  "status": "published"
+}

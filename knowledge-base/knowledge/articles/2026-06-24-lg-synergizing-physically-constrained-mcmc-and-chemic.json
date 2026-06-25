@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-lg-synergizing-physically-constrained-mcmc-and-chemic",
+  "title": "Synergizing Physically Constrained MCMC and Chemical-Informed Gaussian Processes for Reaction Network Discovery",
+  "source": "arxiv-cs-lg",
+  "source_url": "https://arxiv.org/abs/2606.23757",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "提出一种结合物理约束MCMC与化学信息高斯过程的方法，用于从稀疏、含噪化学时间序列数据中发现可解释的反应网络。",
+  "analysis": {
+    "tech_highlights": [
+      "物理约束MCMC用于推断离散反应拓扑",
+      "化学信息高斯过程处理稀疏、含噪数据"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "mcmc",
+    "gaussian-process",
+    "chemical-reaction-network",
+    "scientific-machine-learning",
+    "time-series"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-23-github-baoyu-design",
+  "title": "baoyu-design: 本地运行 Claude Design 的 Agent Skill",
+  "source": "github-trending",
+  "source_url": "https://github.com/JimLiu/baoyu-design",
+  "collected_at": "2026-06-23T10:00:00Z",
+  "summary": "本地运行 Claude Design 作为 Agent Skill，产出 UI 原型和设计稿",
+  "analysis": {
+    "tech_highlights": [
+      "本地运行 Claude Design",
+      "Agent Skill 化封装",
+      "多平台兼容"
+    ],
+    "relevance_score": 5,
+    "score_reason": "将云端能力本地化为 Agent Skill 的思路值得借鉴，Agent Skill 的封装模式对 Skill 设计有参考意义。但核心功能聚焦 UI 设计领域，与知识库/Agent 后端系统的直接关联度一般。关注其 Skill 封装模式即可。"
+  },
+  "tags": [
+    "agent-skill",
+    "claude-design",
+    "ui-prototype",
+    "local-first",
+    "cursor"
+  ],
+  "status": "published"
+}

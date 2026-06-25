@@ -1,0 +1,19 @@
+{
+  "id": "github-trending-20260623-001",
+  "title": "DeepSeek-V4: 下一代 MoE 大模型推理架构",
+  "source": "github-trending",
+  "source_url": "https://github.com/deepseek-ai/deepseek-v4",
+  "collected_at": "2026-06-23T12:00:00Z",
+  "summary": "DeepSeek发布第四代MoE架构大模型，采用多头潜在注意力机制与混合专家路由策略，推理速度提升3倍同时保持高精度，支持128K上下文窗口与多语言能力",
+  "analysis": {
+    "tech_highlights": [
+      "多头潜在注意力机制",
+      "混合专家路由策略",
+      "推理速度提升3倍",
+      "支持128K上下文窗口"
+    ],
+    "relevance_score": 9
+  },
+  "tags": ["llm", "deepseek", "inference"],
+  "status": "published"
+}

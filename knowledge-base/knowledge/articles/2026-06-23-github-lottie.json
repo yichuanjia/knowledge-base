@@ -1,0 +1,25 @@
+{
+  "id": "2026-06-23-github-lottie",
+  "title": "diffusionstudio/lottie: AI 驱动的 Lottie 动画生成",
+  "source": "github-trending",
+  "source_url": "https://github.com/diffusionstudio/lottie",
+  "collected_at": "2026-06-23T10:00:00Z",
+  "summary": "用 Claude Code/Codex 生成生产级 Lottie 动画文件",
+  "analysis": {
+    "tech_highlights": [
+      "AI 生成 Lottie 动画",
+      "Claude Code/Codex 驱动",
+      "生产级输出"
+    ],
+    "relevance_score": 3,
+    "score_reason": "属于 AI 辅助设计工具领域，核心功能是动画生成而非 Agent 系统或知识管理。与当前项目的 AI 知识库助手方向关联度较低，仅在 AI 应用场景上有弱关联。参考价值有限。"
+  },
+  "tags": [
+    "lottie",
+    "animation",
+    "ai-design-tool",
+    "claude-code",
+    "codex"
+  ],
+  "status": "published"
+}

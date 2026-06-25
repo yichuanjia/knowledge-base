@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-github-cloudflare-security-audit-skill",
+  "title": "cloudflare/security-audit-skill",
+  "source": "github-trending",
+  "source_url": "https://github.com/cloudflare/security-audit-skill",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "Cloudflare 发布了一个用于多阶段安全审计的编码代理技能，可生成独立验证、机器可读的审计结果。",
+  "analysis": {
+    "tech_highlights": [
+      "多阶段安全审计流程",
+      "独立验证的机器可读审计结果"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "security",
+    "agent",
+    "open-source",
+    "audit",
+    "cloudflare"
+  ],
+  "status": "reviewed"
+}

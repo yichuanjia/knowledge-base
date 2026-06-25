@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-ai-reinforcement-learning-towards-broadly-and-persist",
+  "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+  "source": "arxiv-cs-ai",
+  "source_url": "https://arxiv.org/abs/2606.24014",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "该论文探讨了强化学习在实现广泛且持久有益的模型对齐方面的应用，旨在提升AI系统在多样化和高风险场景中的泛化能力。",
+  "analysis": {
+    "tech_highlights": [
+      "强化学习用于模型对齐",
+      "提升跨任务和跨领域的泛化能力",
+      "面向高风险场景的持久有益性设计"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "reinforcement-learning",
+    "ai-alignment",
+    "generalization",
+    "arxiv"
+  ],
+  "status": "reviewed"
+}

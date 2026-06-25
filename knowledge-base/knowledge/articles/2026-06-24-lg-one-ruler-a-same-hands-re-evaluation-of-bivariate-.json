@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-24-lg-one-ruler-a-same-hands-re-evaluation-of-bivariate-",
+  "title": "One Ruler: A Same-Hands Re-Evaluation of Bivariate Causal Direction on Tuebingen, with a Parameter-Free Compression Baseline",
+  "source": "arxiv-cs-lg",
+  "source_url": "https://arxiv.org/abs/2606.23767",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "该论文重新评估了图宾根因果方向数据集上的双变量因果方向，提出了一种无参数压缩基线方法，并指出不同论文间报告的准确率因协议不同而不可直接比较。",
+  "analysis": {
+    "tech_highlights": [
+      "提出无参数压缩基线用于因果方向判断",
+      "重新评估图宾根数据集上的协议一致性问题"
+    ],
+    "relevance_score": 5
+  },
+  "tags": [
+    "causal-inference",
+    "bivariate-analysis",
+    "compression",
+    "benchmark"
+  ],
+  "status": "reviewed"
+}

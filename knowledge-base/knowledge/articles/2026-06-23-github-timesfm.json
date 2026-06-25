@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-23-github-timesfm",
+  "title": "timesfm: Google时间序列基础模型",
+  "source": "github-trending",
+  "source_url": "https://github.com/google-research/timesfm",
+  "collected_at": "2026-06-23T12:00:00Z",
+  "summary": "Google Research时间序列基础模型，预训练即用，提供开箱即用的深度学习预测方案",
+  "analysis": {
+    "tech_highlights": [
+      "Google Research 官方发布的领域基础模型",
+      "预训练即用，无需从头训练",
+      "将基础模型范式引入时间序列预测领域"
+    ],
+    "relevance_score": 9
+  },
+  "tags": ["time-series", "foundation-model", "forecasting", "deep-learning", "google"],
+  "status": "published"
+}

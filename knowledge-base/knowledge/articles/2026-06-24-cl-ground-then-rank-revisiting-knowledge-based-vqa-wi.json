@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-24-cl-ground-then-rank-revisiting-knowledge-based-vqa-wi",
+  "title": "Ground Then Rank: Revisiting Knowledge-Based VQA with Training-Free Entity Identification",
+  "source": "arxiv-cs-cl",
+  "source_url": "https://arxiv.org/abs/2606.23881",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "提出一种无需训练的实体识别方法，通过先定位视觉查询中的实体再排序外部知识，改进基于知识的视觉问答系统的性能。",
+  "analysis": {
+    "tech_highlights": [
+      "无需额外训练的实体识别机制",
+      "先定位后排序的两阶段知识检索策略"
+    ],
+    "relevance_score": 6
+  },
+  "tags": [
+    "visual-question-answering",
+    "knowledge-grounding",
+    "entity-identification",
+    "training-free"
+  ],
+  "status": "reviewed"
+}

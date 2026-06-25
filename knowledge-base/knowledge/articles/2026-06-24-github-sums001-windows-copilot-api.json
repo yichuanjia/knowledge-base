@@ -1,0 +1,24 @@
+{
+  "id": "2026-06-24-github-sums001-windows-copilot-api",
+  "title": "sums001/Windows-Copilot-API",
+  "source": "github-trending",
+  "source_url": "https://github.com/sums001/Windows-Copilot-API",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "通过逆向工程将Windows Copilot转化为兼容OpenAI的API，无需API密钥即可通过REST接口访问GPT-4和GPT-5模型。",
+  "analysis": {
+    "tech_highlights": [
+      "逆向工程实现OpenAI兼容API",
+      "无需API密钥和计费即可访问GPT-4/5"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "reverse-engineering",
+    "api",
+    "gpt-4",
+    "gpt-5",
+    "open-source",
+    "windows-copilot"
+  ],
+  "status": "reviewed"
+}

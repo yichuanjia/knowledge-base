@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-24-github-iart-ai-motion-skills",
+  "title": "iart-ai/motion-skills",
+  "source": "github-trending",
+  "source_url": "https://github.com/iart-ai/motion-skills",
+  "collected_at": "2026-06-24T09:30:07.375547+00:00",
+  "summary": "一个开源项目，提供50个技能包，让AI编码代理能够生成动态图形、动画和视频，涵盖动态排版、数据可视化、解释性视频、短视频、WebGL和Manim。",
+  "analysis": {
+    "tech_highlights": [
+      "50个开源技能包覆盖多种动态视觉内容生成",
+      "14个可安装技能包，便于集成到AI编码代理",
+      "支持动态排版、数据可视化、短视频等多种应用场景"
+    ],
+    "relevance_score": 8
+  },
+  "tags": [
+    "open-source",
+    "ai-agent",
+    "motion-graphics",
+    "animation",
+    "video-generation",
+    "webgl",
+    "manim"
+  ],
+  "status": "reviewed"
+}

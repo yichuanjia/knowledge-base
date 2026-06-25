@@ -1,0 +1,5 @@
+echo ".env" >> .gitignore
+echo ".DS_Store" >> .gitignore
+echo "__pycache__/" >> .gitignore
+git add .gitignore
+git commit -m "add gitignore block secret env file"

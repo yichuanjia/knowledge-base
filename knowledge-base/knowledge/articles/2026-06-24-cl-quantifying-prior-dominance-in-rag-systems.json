@@ -1,0 +1,22 @@
+{
+  "id": "2026-06-24-cl-quantifying-prior-dominance-in-rag-systems",
+  "title": "Quantifying Prior Dominance in RAG Systems",
+  "source": "arxiv-cs-cl",
+  "source_url": "https://arxiv.org/abs/2606.23695",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "该论文提出量化RAG系统中先验主导性的方法，揭示现有评估依赖离散启发式的局限性。",
+  "analysis": {
+    "tech_highlights": [
+      "量化先验主导性指标",
+      "揭示离散启发式评估的不足"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "rag",
+    "llm",
+    "evaluation",
+    "knowledge-retrieval"
+  ],
+  "status": "reviewed"
+}

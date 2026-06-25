@@ -1,0 +1,23 @@
+{
+  "id": "2026-06-24-ai-neuro-symbolic-drive-rule-grounded-faithful-reason",
+  "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+  "source": "arxiv-cs-ai",
+  "source_url": "https://arxiv.org/abs/2606.23938",
+  "collected_at": "2026-06-24T09:40:55.498385+00:00",
+  "summary": "提出神经符号驱动方法，通过规则约束的忠实推理增强驾驶VLA模型的可解释性与可靠性，利用预训练VLM表示并融合符号推理。",
+  "analysis": {
+    "tech_highlights": [
+      "规则约束的忠实推理机制",
+      "融合神经符号方法与驾驶VLA模型"
+    ],
+    "relevance_score": 7
+  },
+  "tags": [
+    "neuro-symbolic",
+    "vla",
+    "chain-of-thought",
+    "autonomous-driving",
+    "reasoning"
+  ],
+  "status": "reviewed"
+}
