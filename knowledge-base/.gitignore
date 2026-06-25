@@ -1,0 +1,5 @@
+# 创建/编辑.gitignore
+echo ".env" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.log" >> .gitignore
+git add .gitignore
