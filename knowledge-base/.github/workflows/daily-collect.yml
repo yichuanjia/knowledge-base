@@ -1,0 +1,78 @@
+name: Daily Collect
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run collection pipeline
+        env:
+          LLM_PROVIDER: ${{ secrets.LLM_PROVIDER }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DASHSCOPE_API_KEY: ${{ secrets.QWEN_API_KEY }}
+          QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python pipeline/pipeline.py --sources github,rss --limit 20 --verbose
+
+      - name: Validate collected articles
+        run: |
+          shopt -s nullglob
+          FILES=(knowledge/articles/*.json)
+          if [ ${#FILES[@]} -gt 0 ]; then
+            python hooks/validate_json.py knowledge/articles/*.json
+            python hooks/check_quality.py knowledge/articles/*.json
+          else
+            echo "No article files to validate"
+          fi
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          NEW_FILES=$(git ls-files --others --exclude-standard -- "knowledge/articles/" "knowledge/raw/")
+          MODIFIED=$(git diff --name-only -- "knowledge/articles/" "knowledge/raw/")
+          if [ -z "$NEW_FILES" ] && [ -z "$MODIFIED" ]; then
+            echo "No changes detected, skipping commit"
+            exit 0
+          fi
+
+          git add knowledge/articles/ knowledge/raw/
+          COUNT=$(python -c "
+import json, glob, os
+count = 0
+for d in ('knowledge/articles', 'knowledge/raw'):
+    for f in glob.glob(f'{d}/*.json'):
+        try:
+            with open(f) as fp:
+                data = json.load(fp)
+            count += data.get('count', 0) if 'count' in data else 1
+        except Exception:
+            count += 1
+print(count)
+" 2>/dev/null || echo "0")
+          COMMIT_DATE=$(date -u +%Y-%m-%d)
+          git commit -m "collect: ${COUNT} articles (${COMMIT_DATE})"
+          git push
